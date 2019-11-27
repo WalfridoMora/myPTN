@@ -1,0 +1,307 @@
+RT820WM@DOTDSM312465 MINGW64 ~
+$ cd users
+bash: cd: users: No such file or directory
+
+RT820WM@DOTDSM312465 MINGW64 ~
+$ cd c:
+
+RT820WM@DOTDSM312465 MINGW64 /c
+$ cd users
+
+RT820WM@DOTDSM312465 MINGW64 /c/users
+$ cd rt820wm
+
+RT820WM@DOTDSM312465 MINGW64 /c/users/rt820wm
+$ cd source
+
+RT820WM@DOTDSM312465 MINGW64 /c/users/rt820wm/source
+$ cd Prob_Tst_ETL
+
+RT820WM@DOTDSM312465 MINGW64 /c/users/rt820wm/source/Prob_Tst_ETL
+$ git init
+Initialized empty Git repository in C:/Users/RT820WM/source/Prob_Tst_ETL/.git/
+
+RT820WM@DOTDSM312465 MINGW64 /c/users/rt820wm/source/Prob_Tst_ETL (master)
+$ touch .gitignore
+
+RT820WM@DOTDSM312465 MINGW64 /c/users/rt820wm/source/Prob_Tst_ETL (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        .gitignore
+        Prob_Tst_ETL.sln
+        Prob_Tst_ETL/
+        README.md
+        Setup/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+RT820WM@DOTDSM312465 MINGW64 /c/users/rt820wm/source/Prob_Tst_ETL (master)
+$ git add .
+warning: LF will be replaced by CRLF in Prob_Tst_ETL/NLog.config.
+The file will have its original line endings in your working directory.
+
+RT820WM@DOTDSM312465 MINGW64 /c/users/rt820wm/source/Prob_Tst_ETL (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   .gitignore
+        new file:   Prob_Tst_ETL.sln
+        new file:   Prob_Tst_ETL/App.config
+        new file:   Prob_Tst_ETL/Get_Connections.cs
+        new file:   Prob_Tst_ETL/Get_dtRecord.cs
+        new file:   Prob_Tst_ETL/Log.cs
+        new file:   Prob_Tst_ETL/LogException.cs
+        new file:   Prob_Tst_ETL/LogPerformance.cs
+        new file:   Prob_Tst_ETL/NLog.config
+        new file:   Prob_Tst_ETL/NLog.xsd
+        new file:   Prob_Tst_ETL/Post_dt.cs
+        new file:   Prob_Tst_ETL/Prob_Tst_ETL.csproj
+        new file:   Prob_Tst_ETL/Program.cs
+        new file:   Prob_Tst_ETL/Properties/AssemblyInfo.cs
+        new file:   Prob_Tst_ETL/Ptn_Utilities.cs
+        new file:   Prob_Tst_ETL/Send_Email_Body.cs
+        new file:   Prob_Tst_ETL/packages.config
+        new file:   README.md
+        new file:   Setup/Setup.vdproj
+
+
+RT820WM@DOTDSM312465 MINGW64 /c/users/rt820wm/source/Prob_Tst_ETL (master)
+$ git commit -m "First Commit"
+[master (root-commit) 8caf5e5] First Commit
+ 19 files changed, 8335 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 Prob_Tst_ETL.sln
+ create mode 100644 Prob_Tst_ETL/App.config
+ create mode 100644 Prob_Tst_ETL/Get_Connections.cs
+ create mode 100644 Prob_Tst_ETL/Get_dtRecord.cs
+ create mode 100644 Prob_Tst_ETL/Log.cs
+ create mode 100644 Prob_Tst_ETL/LogException.cs
+ create mode 100644 Prob_Tst_ETL/LogPerformance.cs
+ create mode 100644 Prob_Tst_ETL/NLog.config
+ create mode 100644 Prob_Tst_ETL/NLog.xsd
+ create mode 100644 Prob_Tst_ETL/Post_dt.cs
+ create mode 100644 Prob_Tst_ETL/Prob_Tst_ETL.csproj
+ create mode 100644 Prob_Tst_ETL/Program.cs
+ create mode 100644 Prob_Tst_ETL/Properties/AssemblyInfo.cs
+ create mode 100644 Prob_Tst_ETL/Ptn_Utilities.cs
+ create mode 100644 Prob_Tst_ETL/Send_Email_Body.cs
+ create mode 100644 Prob_Tst_ETL/packages.config
+ create mode 100644 README.md
+ create mode 100644 Setup/Setup.vdproj
+
+RT820WM@DOTDSM312465 MINGW64 /c/users/rt820wm/source/Prob_Tst_ETL (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+RT820WM@DOTDSM312465 MINGW64 /c/users/rt820wm/source/Prob_Tst_ETL (master)
+$ git remote add origin https://fdot.visualstudio.com/SMO/_git/PTN
+
+RT820WM@DOTDSM312465 MINGW64 /c/users/rt820wm/source/Prob_Tst_ETL (master)
+$ git push -u origin --all
+Counting objects: 24, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (22/22), done.
+Writing objects: 100% (24/24), 45.74 KiB | 3.81 MiB/s, done.
+Total 24 (delta 0), reused 0 (delta 0)
+remote: Analyzing objects... (24/24) (8 ms)
+remote: Storing packfile... done (195 ms)
+remote: Storing index... done (83 ms)
+To https://fdot.visualstudio.com/SMO/_git/PTN
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+RT820WM@DOTDSM312465 MINGW64 /c/users/rt820wm/source/Prob_Tst_ETL (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+RT820WM@DOTDSM312465 MINGW64 /c/users/rt820wm/source/Prob_Tst_ETL (master)
+$
+
+Tuesday July 2nd 2019
+***************************************************************************************************
+RT820WM@DOTPSM357588 MINGW64 ~/source/Prob_Tst_ETL (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   Prob_Tst_ETL/App.config
+        modified:   Prob_Tst_ETL/Get_dtRecord.cs
+        new file:   Prob_Tst_ETL/Get_queryStr.cs
+        modified:   Prob_Tst_ETL/Prob_Tst_ETL.csproj
+        modified:   Prob_Tst_ETL/Program.cs
+
+
+RT820WM@DOTPSM357588 MINGW64 ~/source/Prob_Tst_ETL (master)
+$ git add *
+The following paths are ignored by one of your .gitignore files:
+2019-06-26 PTN Code Review - combined.xlsx
+GitBashCommands.txt
+UpgradeLog.htm
+~$2019-06-26 PTN Code Review - combined.xlsx
+Use -f if you really want to add them.
+
+RT820WM@DOTPSM357588 MINGW64 ~/source/Prob_Tst_ETL (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   Prob_Tst_ETL/App.config
+        modified:   Prob_Tst_ETL/Get_dtRecord.cs
+        new file:   Prob_Tst_ETL/Get_queryStr.cs
+        modified:   Prob_Tst_ETL/Prob_Tst_ETL.csproj
+        modified:   Prob_Tst_ETL/Program.cs
+
+
+RT820WM@DOTPSM357588 MINGW64 ~/source/Prob_Tst_ETL (master)
+$ git commit -m "Except instances of DataTable all others were wrapped in a using(){} directive. Files --> Get_dtRecord.cs, program.cs. Created a class providing all the Sql commands or query strings by calling a methos with parameter queryNumber --> Class Get_queryStr.cs. Working next in wrapping all instances of DataTable in a using directive^C
+
+RT820WM@DOTPSM357588 MINGW64 ~/source/Prob_Tst_ETL (master)
+$ git commit -m "Except instances of DataTable all others were wrapped in a using(){} directive. Files --> Get_dtRecord.cs, program.cs. Created a class providing all the Sql commands or query strings by calling a method with parameter queryNumber --> Class Get_queryStr.cs. Working next in wrapping all instances of DataTable in a using directive"
+[master ff08935] Except instances of DataTable all others were wrapped in a using(){} directive. Files --> Get_dtRecord.cs, program.cs. Created a class providing all the Sql commands or query strings by calling a method with parameter queryNumber --> Class Get_queryStr.cs. Working next in wrapping all instances of DataTable in a using directive
+ Committer: Mora <walfrido.mora@dot.state.fl.us>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 787 insertions(+), 3444 deletions(-)
+ rewrite Prob_Tst_ETL/Get_dtRecord.cs (88%)
+ copy Prob_Tst_ETL/{Program.cs => Get_queryStr.cs} (69%)
+ rewrite Prob_Tst_ETL/Program.cs (97%)
+
+RT820WM@DOTPSM357588 MINGW64 ~/source/Prob_Tst_ETL (master)
+$
+
+RT820WM@DOTPSM357588 MINGW64 ~/source/Prob_Tst_ETL (master)
+$
+
+RT820WM@DOTPSM357588 MINGW64 ~/source/Prob_Tst_ETL (master)
+$ git push -u origin --all
+Enumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (8/8), done.
+Writing objects: 100% (8/8), 12.79 KiB | 4.26 MiB/s, done.
+Total 8 (delta 6), reused 0 (delta 0)
+remote: Analyzing objects... (8/8) (304 ms)
+remote: Storing packfile... done (69 ms)
+remote: Storing index... done (37 ms)
+To https://fdot.visualstudio.com/SMO/_git/PTN
+   006f393..ff08935  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+RT820WM@DOTPSM357588 MINGW64 ~/source/Prob_Tst_ETL (master)
+$
+RT820WM@DOTPSM357588 MINGW64 ~/source/Prob_Tst_ETL (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   Prob_Tst_ETL/App.config
+        modified:   Prob_Tst_ETL/Get_dtRecord.cs
+        new file:   Prob_Tst_ETL/Get_queryStr.cs
+        modified:   Prob_Tst_ETL/Prob_Tst_ETL.csproj
+        modified:   Prob_Tst_ETL/Program.cs
+
+
+RT820WM@DOTPSM357588 MINGW64 ~/source/Prob_Tst_ETL (master)
+$ git add *
+The following paths are ignored by one of your .gitignore files:
+2019-06-26 PTN Code Review - combined.xlsx
+GitBashCommands.txt
+UpgradeLog.htm
+~$2019-06-26 PTN Code Review - combined.xlsx
+Use -f if you really want to add them.
+
+RT820WM@DOTPSM357588 MINGW64 ~/source/Prob_Tst_ETL (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   Prob_Tst_ETL/App.config
+        modified:   Prob_Tst_ETL/Get_dtRecord.cs
+        new file:   Prob_Tst_ETL/Get_queryStr.cs
+        modified:   Prob_Tst_ETL/Prob_Tst_ETL.csproj
+        modified:   Prob_Tst_ETL/Program.cs
+
+
+RT820WM@DOTPSM357588 MINGW64 ~/source/Prob_Tst_ETL (master)
+$ git commit -m "Except instances of DataTable all others were wrapped in a using(){} directive. Files --> Get_dtRecord.cs, program.cs. Created a class providing all the Sql commands or query strings by calling a methos with parameter queryNumber --> Class Get_queryStr.cs. Working next in wrapping all instances of DataTable in a using directive^C
+
+RT820WM@DOTPSM357588 MINGW64 ~/source/Prob_Tst_ETL (master)
+$ git commit -m "Except instances of DataTable all others were wrapped in a using(){} directive. Files --> Get_dtRecord.cs, program.cs. Created a class providing all the Sql commands or query strings by calling a method with parameter queryNumber --> Class Get_queryStr.cs. Working next in wrapping all instances of DataTable in a using directive"
+[master ff08935] Except instances of DataTable all others were wrapped in a using(){} directive. Files --> Get_dtRecord.cs, program.cs. Created a class providing all the Sql commands or query strings by calling a method with parameter queryNumber --> Class Get_queryStr.cs. Working next in wrapping all instances of DataTable in a using directive
+ Committer: Mora <walfrido.mora@dot.state.fl.us>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 787 insertions(+), 3444 deletions(-)
+ rewrite Prob_Tst_ETL/Get_dtRecord.cs (88%)
+ copy Prob_Tst_ETL/{Program.cs => Get_queryStr.cs} (69%)
+ rewrite Prob_Tst_ETL/Program.cs (97%)
+
+RT820WM@DOTPSM357588 MINGW64 ~/source/Prob_Tst_ETL (master)
+$
+
+RT820WM@DOTPSM357588 MINGW64 ~/source/Prob_Tst_ETL (master)
+$
+
+RT820WM@DOTPSM357588 MINGW64 ~/source/Prob_Tst_ETL (master)
+$ git push -u origin --all
+Enumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (8/8), done.
+Writing objects: 100% (8/8), 12.79 KiB | 4.26 MiB/s, done.
+Total 8 (delta 6), reused 0 (delta 0)
+remote: Analyzing objects... (8/8) (304 ms)
+remote: Storing packfile... done (69 ms)
+remote: Storing index... done (37 ms)
+To https://fdot.visualstudio.com/SMO/_git/PTN
+   006f393..ff08935  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+RT820WM@DOTPSM357588 MINGW64 ~/source/Prob_Tst_ETL (master)
+$
+

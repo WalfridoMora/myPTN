@@ -1,0 +1,259 @@
+ Date: 2019-04-22 11:04:05.2048
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 01 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-22 11:04:05.2428
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 02 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-22 11:04:05.2737
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 03 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-22 11:04:05.3045
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 04 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-22 11:04:05.3367
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 05 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-22 11:04:05.3777
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 06 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-22 11:04:05.4116
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 07 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-22 11:04:05.4420
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 99 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-23 13:21:06.1840
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 01 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-23 13:21:06.2420
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 02 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-23 13:21:06.2728
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 03 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-23 13:21:06.3223
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 04 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-23 13:21:06.3543
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 05 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-23 13:21:06.3863
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 06 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-23 13:21:06.4213
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 07 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-23 13:21:06.4572
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 99 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-23 13:38:34.2352
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 01 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-23 13:38:40.4133
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 02 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-23 13:49:08.0371
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 03 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-23 13:49:11.6317
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 04 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-23 13:49:12.3551
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 05 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-23 13:49:12.8992
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 06 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-23 13:49:13.3416
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 07 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-04-23 13:49:13.5747
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Sending email notification to District: 99 was FailedDueToBusinessRuleViolation
+ Exception Type: System.Exception
+ Exception Message: Unknown failure| http response: NotFound
+
+
+ Date: 2019-07-01 16:29:16.1023
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Query 16
+ Exception Type: System.Data.SqlClient.SqlException
+ Exception Message: Invalid object name '##PTNTB0070_30_SMPLS'.
+
+
+ Date: 2019-07-01 16:29:19.4063
+ Level:ERROR
+ Extracting From: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Loading To: Data Source=DOT-WTSQL001-C.fdot.dot.state.fl.us\BITESTSQL
+ Call Site: Prob_Tst_ETL.LogException..ctor
+ Source: Query 15
+ Exception Type: System.Data.SqlClient.SqlException
+ Exception Message: Invalid object name '##PTNTB0073_30_SMPLS_FM1T084FASG'.
+

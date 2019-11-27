@@ -1,0 +1,804 @@
+2019-04-08 11:26:00.0897 | Query No. 6  | Contact info | Read Time: 00:00:00.1850366 | Write Time: 00:00:00.0727523
+2019-04-08 11:26:00.3142 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0997760 | Write Time: 00:00:00.1033403
+2019-04-08 11:26:00.5734 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1574714 | Write Time: 00:00:00.0959815
+2019-04-08 11:26:00.7231 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0838178 | Write Time: 00:00:00.0587149
+2019-04-08 11:26:06.3581 | Query No. 10 | Sample info  | Read Time: 00:00:05.6330878 | Write Time: 00:00:00.0587149
+2019-04-08 11:26:07.9433 | Query No. 11 | FM1T011      | Read Time: 00:00:00.9931099 | Write Time: 00:00:00.5895286
+2019-04-08 11:26:14.8977 | Query No. 13 | T27AggGrad   | Read Time: 00:00:04.5079940 | Write Time: 00:00:02.4416783
+2019-04-08 11:26:15.1201 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.1305656 | Write Time: 00:00:00.0872431
+2019-04-08 11:26:21.0444 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:05.8158997 | Write Time: 00:00:00.1047299
+2019-04-08 11:26:22.2136 | Query No. 21 | FM1T096      | Read Time: 00:00:01.0678403 | Write Time: 00:00:00.0977130
+2019-04-08 13:13:32.8905 | Query No. 6  | Contact info | Read Time: 00:00:00.1685320 | Write Time: 00:00:00.0558884
+2019-04-08 13:13:33.1200 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0664519 | Write Time: 00:00:00.1428176
+2019-04-08 13:13:33.3416 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1404333 | Write Time: 00:00:00.0766752
+2019-04-08 13:13:33.4978 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0874841 | Write Time: 00:00:00.0674294
+2019-04-08 13:13:38.2668 | Query No. 10 | Sample info  | Read Time: 00:00:04.7662368 | Write Time: 00:00:00.0674294
+2019-04-08 13:13:39.1489 | Query No. 11 | FM1T011      | Read Time: 00:00:00.8024241 | Write Time: 00:00:00.0755070
+2019-04-08 13:13:43.6853 | Query No. 13 | T27AggGrad   | Read Time: 00:00:04.3907435 | Write Time: 00:00:00.1432052
+2019-04-08 13:13:43.8675 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.1228429 | Write Time: 00:00:00.0549043
+2019-04-08 13:13:48.1815 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:04.2548289 | Write Time: 00:00:00.0560753
+2019-04-08 13:13:49.3014 | Query No. 21 | FM1T096      | Read Time: 00:00:01.0595802 | Write Time: 00:00:00.0556109
+2019-04-08 15:20:25.4619 | Query No. 6  | Contact info | Read Time: 00:00:00.1587783 | Write Time: 00:00:00.0693537
+2019-04-08 15:20:25.6718 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0702672 | Write Time: 00:00:00.1170940
+2019-04-08 15:20:25.9418 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1482624 | Write Time: 00:00:00.1163338
+2019-04-08 15:20:26.1076 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0884551 | Write Time: 00:00:00.0736054
+2019-04-08 15:20:35.0506 | Query No. 10 | Sample info  | Read Time: 00:00:08.9379515 | Write Time: 00:00:00.0736054
+2019-04-08 15:20:36.7402 | Query No. 11 | FM1T011      | Read Time: 00:00:00.8786446 | Write Time: 00:00:00.8081149
+2019-04-08 15:20:41.6125 | Query No. 13 | T27AggGrad   | Read Time: 00:00:04.6715537 | Write Time: 00:00:00.1964589
+2019-04-08 15:20:44.6257 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:02.9506875 | Write Time: 00:00:00.0595432
+2019-04-08 15:20:55.3951 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:10.7027461 | Write Time: 00:00:00.0610034
+2019-04-08 15:20:58.9451 | Query No. 21 | FM1T096      | Read Time: 00:00:03.4870545 | Write Time: 00:00:00.0606737
+2019-04-08 15:26:24.6304 | Query No. 6  | Contact info | Read Time: 00:00:00.1579103 | Write Time: 00:00:00.0565356
+2019-04-08 15:26:24.8217 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0671672 | Write Time: 00:00:00.1067485
+2019-04-08 15:26:25.0825 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1507957 | Write Time: 00:00:00.1051937
+2019-04-08 15:26:25.2526 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0878284 | Write Time: 00:00:00.0783939
+2019-04-08 15:26:30.0137 | Query No. 10 | Sample info  | Read Time: 00:00:04.7584342 | Write Time: 00:00:00.0783939
+2019-04-08 15:26:30.8564 | Query No. 11 | FM1T011      | Read Time: 00:00:00.7622258 | Write Time: 00:00:00.0758948
+2019-04-08 15:26:35.7011 | Query No. 13 | T27AggGrad   | Read Time: 00:00:04.7026817 | Write Time: 00:00:00.1411478
+2019-04-08 15:26:37.7703 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:02.0114972 | Write Time: 00:00:00.0559428
+2019-04-08 15:26:42.3578 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:04.5292784 | Write Time: 00:00:00.0560675
+2019-04-08 15:26:43.5405 | Query No. 21 | FM1T096      | Read Time: 00:00:01.1234967 | Write Time: 00:00:00.0565474
+2019-04-08 15:29:23.5832 | Query No. 6  | Contact info | Read Time: 00:00:00.6711270 | Write Time: 00:00:00.0569250
+2019-04-08 15:29:23.9509 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2428328 | Write Time: 00:00:00.1081496
+2019-04-08 15:29:24.1925 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1509947 | Write Time: 00:00:00.0893530
+2019-04-08 15:29:24.3294 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0651391 | Write Time: 00:00:00.0695674
+2019-04-08 15:29:32.4737 | Query No. 10 | Sample info  | Read Time: 00:00:08.1395833 | Write Time: 00:00:00.0695674
+2019-04-08 15:29:37.8137 | Query No. 11 | FM1T011      | Read Time: 00:00:05.2717771 | Write Time: 00:00:00.0663172
+2019-04-08 15:29:41.0812 | Query No. 13 | T27AggGrad   | Read Time: 00:00:03.1329915 | Write Time: 00:00:00.1316495
+2019-04-08 15:29:41.7969 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.6555659 | Write Time: 00:00:00.0564099
+2019-04-08 15:29:45.6334 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:03.7778497 | Write Time: 00:00:00.0563362
+2019-04-08 15:29:47.2938 | Query No. 21 | FM1T096      | Read Time: 00:00:01.6012286 | Write Time: 00:00:00.0565362
+2019-04-08 16:19:42.2287 | Query No. 6  | Contact info | Read Time: 00:00:00.1251494 | Write Time: 00:00:00.0628907
+2019-04-08 16:19:42.4487 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0947956 | Write Time: 00:00:00.1075039
+2019-04-08 16:19:42.6672 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1380232 | Write Time: 00:00:00.0763243
+2019-04-08 16:19:42.8011 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0692729 | Write Time: 00:00:00.0609935
+2019-04-08 16:19:45.2761 | Query No. 10 | Sample info  | Read Time: 00:00:02.4714807 | Write Time: 00:00:00.0609935
+2019-04-08 16:19:48.1808 | Query No. 11 | FM1T011      | Read Time: 00:00:02.8356266 | Write Time: 00:00:00.0667834
+2019-04-08 16:19:50.9285 | Query No. 13 | T27AggGrad   | Read Time: 00:00:02.6236483 | Write Time: 00:00:00.1213288
+2019-04-08 16:19:51.6209 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.6338781 | Write Time: 00:00:00.0569928
+2019-04-08 16:19:54.5725 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:02.8927162 | Write Time: 00:00:00.0545839
+2019-04-08 16:19:56.4374 | Query No. 21 | FM1T096      | Read Time: 00:00:01.8045471 | Write Time: 00:00:00.0585118
+2019-04-08 16:20:03.5501 | The length of Message is greater than the maximum allowed length of 2000
+2019-04-08 16:23:50.5268 | Query No. 6  | Contact info | Read Time: 00:00:00.1122660 | Write Time: 00:00:00.0551525
+2019-04-08 16:23:50.7482 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0927214 | Write Time: 00:00:00.1092444
+2019-04-08 16:23:50.9698 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1391180 | Write Time: 00:00:00.0803661
+2019-04-08 16:23:51.1066 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0661051 | Write Time: 00:00:00.0681765
+2019-04-08 16:23:53.5484 | Query No. 10 | Sample info  | Read Time: 00:00:02.4375519 | Write Time: 00:00:00.0681765
+2019-04-08 16:23:56.4445 | Query No. 11 | FM1T011      | Read Time: 00:00:02.8240986 | Write Time: 00:00:00.0695683
+2019-04-08 16:23:59.5072 | Query No. 13 | T27AggGrad   | Read Time: 00:00:02.9486991 | Write Time: 00:00:00.1112931
+2019-04-08 16:24:00.1913 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.6262186 | Write Time: 00:00:00.0537899
+2019-04-08 16:24:03.3253 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:03.0754180 | Write Time: 00:00:00.0570752
+2019-04-08 16:24:05.2348 | Query No. 21 | FM1T096      | Read Time: 00:00:01.8456776 | Write Time: 00:00:00.0619477
+2019-04-08 16:24:11.9865 | Sending email notification to District: 04 was FailedDueToBusinessRuleViolation
+2019-04-09 15:23:47.3908 | Query No. 6  | Contact info | Read Time: 00:00:00.6110522 | Write Time: 00:00:00.0588256
+2019-04-09 15:23:47.7336 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2178637 | Write Time: 00:00:00.1082426
+2019-04-09 15:23:47.9729 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1423517 | Write Time: 00:00:00.0949757
+2019-04-09 15:23:48.1242 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0787612 | Write Time: 00:00:00.0709110
+2019-04-09 15:38:47.1694 | Query No. 6  | Contact info | Read Time: 00:00:01.5865826 | Write Time: 00:00:00.0823902
+2019-04-09 15:38:47.6009 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2985048 | Write Time: 00:00:00.1158359
+2019-04-09 15:38:47.8765 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1564342 | Write Time: 00:00:00.1171245
+2019-04-09 15:38:48.0401 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0907713 | Write Time: 00:00:00.0686972
+2019-04-09 15:38:57.7273 | Query No. 10 | Sample info  | Read Time: 00:00:09.6828556 | Write Time: 00:00:00.0686972
+2019-04-09 15:39:04.3683 | Query No. 11 | FM1T011      | Read Time: 00:00:05.4000639 | Write Time: 00:00:01.2357139
+2019-04-09 15:39:42.5317 | Query No. 13 | T27AggGrad   | Read Time: 00:00:37.6482974 | Write Time: 00:00:00.5137469
+2019-04-09 15:39:45.0945 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:02.4918355 | Write Time: 00:00:00.0667813
+2019-04-09 15:39:56.8411 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:11.6880391 | Write Time: 00:00:00.0563496
+2019-04-09 15:40:01.4204 | Query No. 21 | FM1T096      | Read Time: 00:00:04.5056753 | Write Time: 00:00:00.0717697
+2019-04-09 15:42:55.9864 | Query No. 6  | Contact info | Read Time: 00:00:00.2858804 | Write Time: 00:00:00.0587942
+2019-04-09 15:42:56.8649 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.7214546 | Write Time: 00:00:00.1390589
+2019-04-09 15:42:57.1048 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1456632 | Write Time: 00:00:00.0918897
+2019-04-09 15:42:57.2587 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0917610 | Write Time: 00:00:00.0606445
+2019-04-09 15:43:01.0034 | Query No. 10 | Sample info  | Read Time: 00:00:03.7438065 | Write Time: 00:00:00.0606445
+2019-04-09 15:43:02.3146 | Query No. 11 | FM1T011      | Read Time: 00:00:01.2390987 | Write Time: 00:00:00.0700109
+2019-04-09 15:43:31.8542 | Query No. 13 | T27AggGrad   | Read Time: 00:00:29.4259863 | Write Time: 00:00:00.1125465
+2019-04-09 15:43:32.1836 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.2720135 | Write Time: 00:00:00.0553618
+2019-04-09 15:43:36.5288 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:04.2832706 | Write Time: 00:00:00.0583846
+2019-04-09 15:43:38.0517 | Query No. 21 | FM1T096      | Read Time: 00:00:01.4621385 | Write Time: 00:00:00.0582431
+2019-04-09 15:45:36.0270 | Query No. 6  | Contact info | Read Time: 00:00:00.1457972 | Write Time: 00:00:00.0780723
+2019-04-09 15:45:36.2511 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0937207 | Write Time: 00:00:00.1134588
+2019-04-09 15:45:36.5005 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1503571 | Write Time: 00:00:00.0968533
+2019-04-09 15:45:36.6523 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0751879 | Write Time: 00:00:00.0727137
+2019-04-09 16:04:09.5293 | Query No. 6  | Contact info | Read Time: 00:00:00.2016346 | Write Time: 00:00:00.0526080
+2019-04-09 16:04:09.7547 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1019195 | Write Time: 00:00:00.1071543
+2019-04-09 16:04:10.0086 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1568615 | Write Time: 00:00:00.0950914
+2019-04-09 16:04:10.1647 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0889198 | Write Time: 00:00:00.0657807
+2019-04-09 16:04:16.6133 | Query No. 10 | Sample info  | Read Time: 00:00:06.4428514 | Write Time: 00:00:00.0657807
+2019-04-09 16:04:17.7467 | Query No. 11 | FM1T011      | Read Time: 00:00:01.0525903 | Write Time: 00:00:00.0779930
+2019-04-09 16:04:22.3724 | Query No. 13 | T27AggGrad   | Read Time: 00:00:04.5010930 | Write Time: 00:00:00.1223723
+2019-04-09 16:04:22.5825 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.1447289 | Write Time: 00:00:00.0615688
+2019-04-09 16:04:28.2225 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:05.5787358 | Write Time: 00:00:00.0574242
+2019-04-09 16:04:29.3410 | Query No. 21 | FM1T096      | Read Time: 00:00:01.0572058 | Write Time: 00:00:00.0584294
+2019-04-09 16:04:37.4076 | Sending email notification to District: 02 was FailedDueToBusinessRuleViolation
+2019-04-09 16:57:12.6611 | Query No. 6  | Contact info | Read Time: 00:00:00.1476307 | Write Time: 00:00:00.0642956
+2019-04-09 16:57:12.8545 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0728437 | Write Time: 00:00:00.1010238
+2019-04-09 16:57:13.0884 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1489376 | Write Time: 00:00:00.0834999
+2019-04-09 16:57:13.2263 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0790828 | Write Time: 00:00:00.0569150
+2019-04-09 16:57:17.1759 | Query No. 10 | Sample info  | Read Time: 00:00:03.9487868 | Write Time: 00:00:00.0569150
+2019-04-09 16:57:18.2283 | Query No. 11 | FM1T011      | Read Time: 00:00:00.9866214 | Write Time: 00:00:00.0643466
+2019-04-09 16:57:23.5767 | Query No. 13 | T27AggGrad   | Read Time: 00:00:05.2132003 | Write Time: 00:00:00.1333952
+2019-04-09 16:57:26.1477 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:02.5116777 | Write Time: 00:00:00.0563393
+2019-04-09 16:57:31.1085 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:04.9027603 | Write Time: 00:00:00.0565595
+2019-04-09 16:57:32.4033 | Query No. 21 | FM1T096      | Read Time: 00:00:01.2346458 | Write Time: 00:00:00.0583625
+2019-04-09 16:57:39.2463 | Sending email notification to District: 02 was FailedDueToBusinessRuleViolation
+2019-04-09 17:00:48.5056 | Query No. 6  | Contact info | Read Time: 00:00:00.1841406 | Write Time: 00:00:00.0548215
+2019-04-09 17:00:48.7078 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0786918 | Write Time: 00:00:00.1054882
+2019-04-09 17:00:48.9442 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1489840 | Write Time: 00:00:00.0839602
+2019-04-09 17:00:49.1057 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0918847 | Write Time: 00:00:00.0665405
+2019-04-09 17:00:53.1753 | Query No. 10 | Sample info  | Read Time: 00:00:04.0662544 | Write Time: 00:00:00.0665405
+2019-04-09 17:00:54.1478 | Query No. 11 | FM1T011      | Read Time: 00:00:00.8772851 | Write Time: 00:00:00.0921566
+2019-04-09 17:00:58.7982 | Query No. 13 | T27AggGrad   | Read Time: 00:00:04.5123688 | Write Time: 00:00:00.1365966
+2019-04-09 17:00:58.9796 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.1224551 | Write Time: 00:00:00.0550430
+2019-04-09 17:01:03.0978 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:04.0441103 | Write Time: 00:00:00.0696218
+2019-04-09 17:01:04.4410 | Query No. 21 | FM1T096      | Read Time: 00:00:01.2747365 | Write Time: 00:00:00.0675174
+2019-04-09 17:01:11.0075 | Sending email notification to District: 02 was FailedDueToBusinessRuleViolation
+2019-04-10 11:36:15.8677 | Query No. 6  | Contact info | Read Time: 00:00:00.1831593 | Write Time: 00:00:00.0607418
+2019-04-10 11:36:16.1196 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0968838 | Write Time: 00:00:00.1175901
+2019-04-10 11:36:16.3534 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1512557 | Write Time: 00:00:00.0810721
+2019-04-10 11:36:16.5059 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0816133 | Write Time: 00:00:00.0700902
+2019-04-10 11:36:22.6326 | Query No. 10 | Sample info  | Read Time: 00:00:06.1246596 | Write Time: 00:00:00.0700902
+2019-04-10 11:36:23.8194 | Query No. 11 | FM1T011      | Read Time: 00:00:01.1186802 | Write Time: 00:00:00.0667825
+2019-04-10 11:36:28.5968 | Query No. 13 | T27AggGrad   | Read Time: 00:00:04.6358108 | Write Time: 00:00:00.1393840
+2019-04-10 11:36:31.1526 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:02.4997504 | Write Time: 00:00:00.0545304
+2019-04-10 11:36:40.2820 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:09.0709250 | Write Time: 00:00:00.0576506
+2019-04-10 11:36:42.6435 | Query No. 21 | FM1T096      | Read Time: 00:00:02.3023465 | Write Time: 00:00:00.0543217
+2019-04-10 11:54:57.4908 | Query No. 6  | Contact info | Read Time: 00:00:00.5400081 | Write Time: 00:00:00.0638853
+2019-04-10 11:54:57.8458 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2241097 | Write Time: 00:00:00.1150885
+2019-04-10 11:54:58.0756 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1426932 | Write Time: 00:00:00.0853374
+2019-04-10 11:54:58.2056 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0655745 | Write Time: 00:00:00.0610314
+2019-04-10 11:55:03.1250 | Query No. 10 | Sample info  | Read Time: 00:00:04.9161311 | Write Time: 00:00:00.0610314
+2019-04-10 11:55:08.6515 | Query No. 11 | FM1T011      | Read Time: 00:00:05.4589353 | Write Time: 00:00:00.0662961
+2019-04-10 11:55:11.9694 | Query No. 13 | T27AggGrad   | Read Time: 00:00:03.1992873 | Write Time: 00:00:00.1171923
+2019-04-10 11:55:12.7267 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.6962644 | Write Time: 00:00:00.0564774
+2019-04-10 11:55:16.6486 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:03.8646791 | Write Time: 00:00:00.0553546
+2019-04-10 11:55:18.4511 | Query No. 21 | FM1T096      | Read Time: 00:00:01.7442080 | Write Time: 00:00:00.0557727
+2019-04-10 15:20:05.1778 | Query No. 6  | Contact info | Read Time: 00:00:00.1108312 | Write Time: 00:00:00.0542919
+2019-04-10 15:20:05.4282 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1279611 | Write Time: 00:00:00.1048687
+2019-04-10 15:20:05.8545 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1326945 | Write Time: 00:00:00.2919519
+2019-04-10 15:20:05.9915 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0690635 | Write Time: 00:00:00.0661990
+2019-04-10 15:20:08.4675 | Query No. 10 | Sample info  | Read Time: 00:00:02.4744341 | Write Time: 00:00:00.0661990
+2019-04-10 15:20:11.2143 | Query No. 11 | FM1T011      | Read Time: 00:00:02.6816131 | Write Time: 00:00:00.0634966
+2019-04-10 15:20:14.3649 | Query No. 13 | T27AggGrad   | Read Time: 00:00:03.0217304 | Write Time: 00:00:00.1275113
+2019-04-10 15:20:15.0937 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.6723477 | Write Time: 00:00:00.0543877
+2019-04-10 15:20:18.1610 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:03.0092948 | Write Time: 00:00:00.0560989
+2019-04-10 15:20:19.8484 | Query No. 21 | FM1T096      | Read Time: 00:00:01.6316244 | Write Time: 00:00:00.0532552
+2019-04-10 15:43:33.3006 | Query No. 6  | Contact info | Read Time: 00:00:00.1116268 | Write Time: 00:00:00.0530052
+2019-04-10 15:43:33.5540 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1330310 | Write Time: 00:00:00.1020359
+2019-04-10 15:43:33.7729 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1317098 | Write Time: 00:00:00.0816126
+2019-04-10 15:43:33.9072 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0648299 | Write Time: 00:00:00.0679174
+2019-04-10 15:43:36.3042 | Query No. 10 | Sample info  | Read Time: 00:00:02.3957597 | Write Time: 00:00:00.0679174
+2019-04-10 15:43:38.9383 | Query No. 11 | FM1T011      | Read Time: 00:00:02.5638591 | Write Time: 00:00:00.0654815
+2019-04-10 15:43:41.7886 | Query No. 13 | T27AggGrad   | Read Time: 00:00:02.7349785 | Write Time: 00:00:00.1143617
+2019-04-10 15:43:42.4518 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.6079983 | Write Time: 00:00:00.0534941
+2019-04-10 15:43:45.3441 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:02.8349511 | Write Time: 00:00:00.0562846
+2019-04-10 15:43:47.0107 | Query No. 21 | FM1T096      | Read Time: 00:00:01.6081264 | Write Time: 00:00:00.0565770
+2019-04-10 15:51:00.9813 | Query No. 6  | Contact info | Read Time: 00:00:00.1092792 | Write Time: 00:00:00.0575302
+2019-04-10 15:51:01.1965 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0931158 | Write Time: 00:00:00.1036106
+2019-04-10 15:51:01.4226 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1379019 | Write Time: 00:00:00.0818319
+2019-04-10 15:51:01.5547 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0647388 | Write Time: 00:00:00.0656989
+2019-04-10 15:51:04.0202 | Query No. 10 | Sample info  | Read Time: 00:00:02.4638874 | Write Time: 00:00:00.0656989
+2019-04-10 15:51:07.5768 | Query No. 11 | FM1T011      | Read Time: 00:00:03.4925623 | Write Time: 00:00:00.0624438
+2019-04-10 15:51:10.4823 | Query No. 13 | T27AggGrad   | Read Time: 00:00:02.7936244 | Write Time: 00:00:00.1082286
+2019-04-10 15:51:11.1366 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.5988785 | Write Time: 00:00:00.0536785
+2019-04-10 15:51:14.3508 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:03.1548784 | Write Time: 00:00:00.0563959
+2019-04-10 15:51:16.1055 | Query No. 21 | FM1T096      | Read Time: 00:00:01.6921384 | Write Time: 00:00:00.0579168
+2019-04-10 16:12:04.4769 | Query No. 6  | Contact info | Read Time: 00:00:00.1254082 | Write Time: 00:00:00.0556209
+2019-04-10 16:12:04.6869 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0886439 | Write Time: 00:00:00.1040507
+2019-04-10 16:12:04.8989 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1336372 | Write Time: 00:00:00.0772537
+2019-04-10 16:12:05.0492 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0647935 | Write Time: 00:00:00.0833942
+2019-04-10 16:12:07.6797 | Query No. 10 | Sample info  | Read Time: 00:00:02.6279846 | Write Time: 00:00:00.0833942
+2019-04-10 16:12:10.7897 | Query No. 11 | FM1T011      | Read Time: 00:00:03.0389237 | Write Time: 00:00:00.0699636
+2019-04-10 16:12:14.0182 | Query No. 13 | T27AggGrad   | Read Time: 00:00:03.0640636 | Write Time: 00:00:00.1634950
+2019-04-10 16:12:14.7167 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.6423637 | Write Time: 00:00:00.0544990
+2019-04-10 16:12:18.0710 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:03.2945287 | Write Time: 00:00:00.0582328
+2019-04-10 16:12:20.0202 | Query No. 21 | FM1T096      | Read Time: 00:00:01.8897643 | Write Time: 00:00:00.0582039
+2019-04-10 16:18:00.2167 | Query No. 6  | Contact info | Read Time: 00:00:00.1109146 | Write Time: 00:00:00.0549606
+2019-04-10 16:18:00.4453 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1028962 | Write Time: 00:00:00.1062776
+2019-04-10 16:18:00.6702 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1446489 | Write Time: 00:00:00.0757185
+2019-04-10 16:18:00.8021 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0650924 | Write Time: 00:00:00.0649167
+2019-04-10 16:18:03.2450 | Query No. 10 | Sample info  | Read Time: 00:00:02.4420285 | Write Time: 00:00:00.0649167
+2019-04-10 16:18:05.8657 | Query No. 11 | FM1T011      | Read Time: 00:00:02.5544818 | Write Time: 00:00:00.0648489
+2019-04-10 16:18:08.6961 | Query No. 13 | T27AggGrad   | Read Time: 00:00:02.7056681 | Write Time: 00:00:00.1226522
+2019-04-10 16:18:09.4360 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.6822180 | Write Time: 00:00:00.0563732
+2019-04-10 16:18:12.7929 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:03.2985253 | Write Time: 00:00:00.0559960
+2019-04-10 16:18:14.9516 | Query No. 21 | FM1T096      | Read Time: 00:00:02.1008907 | Write Time: 00:00:00.0552041
+2019-04-11 10:18:00.0115 | Query No. 6  | Contact info | Read Time: 00:00:00.5626915 | Write Time: 00:00:00.1352996
+2019-04-11 10:18:00.5453 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.4005027 | Write Time: 00:00:00.1105616
+2019-04-11 10:18:00.7672 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1421679 | Write Time: 00:00:00.0778147
+2019-04-11 10:18:00.8481 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0144780 | Write Time: 00:00:00.0648993
+2019-04-11 10:20:55.6012 | Query No. 6  | Contact info | Read Time: 00:00:00.1932507 | Write Time: 00:00:00.0546576
+2019-04-11 10:20:55.8651 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1091831 | Write Time: 00:00:00.1370724
+2019-04-11 10:20:56.0951 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1530537 | Write Time: 00:00:00.0742274
+2019-04-11 10:20:56.2502 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0827519 | Write Time: 00:00:00.0688116
+2019-04-11 10:21:02.1766 | Query No. 10 | Sample info  | Read Time: 00:00:05.9249237 | Write Time: 00:00:00.0688116
+2019-04-11 10:21:03.6447 | Query No. 11 | FM1T011      | Read Time: 00:00:01.3962306 | Write Time: 00:00:00.0702921
+2019-04-11 10:21:08.5304 | Query No. 13 | T27AggGrad   | Read Time: 00:00:04.7364997 | Write Time: 00:00:00.1480092
+2019-04-11 10:21:08.7020 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.1168943 | Write Time: 00:00:00.0540564
+2019-04-11 10:21:13.9946 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:05.2357839 | Write Time: 00:00:00.0548237
+2019-04-11 10:21:15.1191 | Query No. 21 | FM1T096      | Read Time: 00:00:01.0696063 | Write Time: 00:00:00.0540813
+2019-04-11 10:22:19.3310 | Query No. 6  | Contact info | Read Time: 00:00:00.1453211 | Write Time: 00:00:00.0550635
+2019-04-11 10:22:19.5381 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0748075 | Write Time: 00:00:00.1104664
+2019-04-11 10:22:19.7610 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1432643 | Write Time: 00:00:00.0781491
+2019-04-11 10:22:19.9124 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0796551 | Write Time: 00:00:00.0701901
+2019-04-11 10:22:23.7281 | Query No. 10 | Sample info  | Read Time: 00:00:03.8136983 | Write Time: 00:00:00.0701901
+2019-04-11 10:22:24.5509 | Query No. 11 | FM1T011      | Read Time: 00:00:00.7544739 | Write Time: 00:00:00.0671050
+2019-04-11 10:22:28.9765 | Query No. 13 | T27AggGrad   | Read Time: 00:00:04.3063155 | Write Time: 00:00:00.1178243
+2019-04-11 10:22:29.1581 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.1259988 | Write Time: 00:00:00.0540530
+2019-04-11 10:22:33.2112 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:03.9982928 | Write Time: 00:00:00.0542434
+2019-04-11 10:22:34.2976 | Query No. 21 | FM1T096      | Read Time: 00:00:01.0303043 | Write Time: 00:00:00.0545345
+2019-04-11 10:51:43.0128 | Query No. 6  | Contact info | Read Time: 00:00:00.1527000 | Write Time: 00:00:00.0561051
+2019-04-11 10:51:43.2122 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0779472 | Write Time: 00:00:00.1047735
+2019-04-11 10:51:43.4274 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1361316 | Write Time: 00:00:00.0774981
+2019-04-11 10:51:43.5765 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0801281 | Write Time: 00:00:00.0677075
+2019-04-11 10:51:47.3234 | Query No. 10 | Sample info  | Read Time: 00:00:03.7454030 | Write Time: 00:00:00.0677075
+2019-04-11 10:51:48.2114 | Query No. 11 | FM1T011      | Read Time: 00:00:00.8097309 | Write Time: 00:00:00.0760699
+2019-04-11 10:51:52.7101 | Query No. 13 | T27AggGrad   | Read Time: 00:00:04.3806316 | Write Time: 00:00:00.1171618
+2019-04-11 10:51:52.8960 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.1303289 | Write Time: 00:00:00.0540735
+2019-04-11 10:51:57.0116 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:04.0583939 | Write Time: 00:00:00.0555217
+2019-04-11 10:51:58.0763 | Query No. 21 | FM1T096      | Read Time: 00:00:01.0071858 | Write Time: 00:00:00.0555646
+2019-04-11 10:54:24.9360 | Query No. 6  | Contact info | Read Time: 00:00:00.1506010 | Write Time: 00:00:00.0545945
+2019-04-11 10:54:25.1260 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0679137 | Write Time: 00:00:00.1046867
+2019-04-11 10:54:25.3489 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1445040 | Write Time: 00:00:00.0768932
+2019-04-11 10:54:25.4968 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0811386 | Write Time: 00:00:00.0658793
+2019-04-11 10:54:29.3714 | Query No. 10 | Sample info  | Read Time: 00:00:03.8725234 | Write Time: 00:00:00.0658793
+2019-04-11 10:54:30.2048 | Query No. 11 | FM1T011      | Read Time: 00:00:00.7676485 | Write Time: 00:00:00.0642091
+2019-04-11 10:54:34.5812 | Query No. 13 | T27AggGrad   | Read Time: 00:00:04.2601067 | Write Time: 00:00:00.1156440
+2019-04-11 10:54:34.7541 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.1170181 | Write Time: 00:00:00.0539603
+2019-04-11 10:54:38.5818 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:03.7709929 | Write Time: 00:00:00.0557913
+2019-04-11 10:54:39.5972 | Query No. 21 | FM1T096      | Read Time: 00:00:00.9577296 | Write Time: 00:00:00.0562255
+2019-04-11 11:14:27.8633 | Query No. 6  | Contact info | Read Time: 00:00:00.1495960 | Write Time: 00:00:00.0558678
+2019-04-11 11:14:28.0642 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0785845 | Write Time: 00:00:00.1038000
+2019-04-11 11:14:28.2820 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1415148 | Write Time: 00:00:00.0750379
+2019-04-11 11:14:28.4310 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0790374 | Write Time: 00:00:00.0675370
+2019-04-11 11:14:32.2502 | Query No. 10 | Sample info  | Read Time: 00:00:03.8179180 | Write Time: 00:00:00.0675370
+2019-04-11 11:14:33.1328 | Query No. 11 | FM1T011      | Read Time: 00:00:00.8072173 | Write Time: 00:00:00.0696542
+2019-04-11 11:14:37.9255 | Query No. 13 | T27AggGrad   | Read Time: 00:00:04.6583378 | Write Time: 00:00:00.1299093
+2019-04-11 11:14:38.1134 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.1285962 | Write Time: 00:00:00.0539314
+2019-04-11 11:14:42.0811 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:03.9127463 | Write Time: 00:00:00.0539103
+2019-04-11 11:14:43.1529 | Query No. 21 | FM1T096      | Read Time: 00:00:01.0141701 | Write Time: 00:00:00.0560759
+2019-04-12 08:38:05.2912 | Query No. 6  | Contact info | Read Time: 00:00:00.5074901 | Write Time: 00:00:00.0606488
+2019-04-12 08:38:05.6051 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1886600 | Write Time: 00:00:00.1045094
+2019-04-12 08:38:05.8453 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1429719 | Write Time: 00:00:00.0930903
+2019-04-12 08:38:05.9886 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0685053 | Write Time: 00:00:00.0724742
+2019-04-12 08:44:15.2644 | Query No. 6  | Contact info | Read Time: 00:00:00.1162732 | Write Time: 00:00:00.0556311
+2019-04-12 08:44:15.4975 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1071739 | Write Time: 00:00:00.1040438
+2019-04-12 08:44:15.7161 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1337856 | Write Time: 00:00:00.0823641
+2019-04-12 08:44:15.8576 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0683756 | Write Time: 00:00:00.0700796
+2019-04-12 08:44:40.3599 | Query No. 6  | Contact info | Read Time: 00:00:00.1775861 | Write Time: 00:00:00.0593845
+2019-04-12 08:44:40.5793 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0960080 | Write Time: 00:00:00.1056991
+2019-04-12 08:44:40.8282 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1566282 | Write Time: 00:00:00.0881599
+2019-04-12 08:44:40.9853 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0857427 | Write Time: 00:00:00.0667166
+2019-04-12 08:44:47.6575 | Query No. 10 | Sample info  | Read Time: 00:00:06.6690285 | Write Time: 00:00:00.0667166
+2019-04-12 08:44:48.8241 | Query No. 11 | FM1T011      | Read Time: 00:00:01.0840392 | Write Time: 00:00:00.0788393
+2019-04-12 08:44:54.0325 | Query No. 13 | T27AggGrad   | Read Time: 00:00:05.0810292 | Write Time: 00:00:00.1245828
+2019-04-12 08:44:54.2109 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.1182525 | Write Time: 00:00:00.0563717
+2019-04-12 08:44:59.3937 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:05.1236494 | Write Time: 00:00:00.0547932
+2019-04-12 08:45:00.5723 | Query No. 21 | FM1T096      | Read Time: 00:00:01.1214094 | Write Time: 00:00:00.0558516
+2019-04-22 10:59:25.0536 | Query No. 6  | Contact info | Read Time: 00:00:00.6347203 | Write Time: 00:00:00.1011250
+2019-04-22 10:59:25.4432 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2561890 | Write Time: 00:00:00.1154727
+2019-04-22 10:59:25.6848 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1455362 | Write Time: 00:00:00.0932646
+2019-04-22 10:59:25.8230 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0703287 | Write Time: 00:00:00.0661222
+2019-04-22 10:59:46.2344 | Query No. 10 | Sample info  | Read Time: 00:00:20.4073830 | Write Time: 00:00:00.0661222
+2019-04-22 10:59:52.2698 | Query No. 11 | FM1T011      | Read Time: 00:00:05.1243750 | Write Time: 00:00:00.9085153
+2019-04-22 10:59:57.9850 | Query No. 13 | T27AggGrad   | Read Time: 00:00:03.0104365 | Write Time: 00:00:02.7012027
+2019-04-22 10:59:58.6647 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.5935618 | Write Time: 00:00:00.0839079
+2019-04-22 11:00:01.8536 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:03.0809526 | Write Time: 00:00:00.1047347
+2019-04-22 11:00:03.7611 | Query No. 21 | FM1T096      | Read Time: 00:00:01.7669604 | Write Time: 00:00:00.1391792
+2019-04-22 11:03:44.7972 | Query No. 6  | Contact info | Read Time: 00:00:00.1129161 | Write Time: 00:00:00.0553777
+2019-04-22 11:03:45.0114 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0924252 | Write Time: 00:00:00.1047627
+2019-04-22 11:03:45.2296 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1367897 | Write Time: 00:00:00.0792842
+2019-04-22 11:03:45.3823 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0733593 | Write Time: 00:00:00.0749412
+2019-04-22 11:03:47.6442 | Query No. 10 | Sample info  | Read Time: 00:00:02.2597004 | Write Time: 00:00:00.0749412
+2019-04-22 11:03:50.6498 | Query No. 11 | FM1T011      | Read Time: 00:00:02.9279139 | Write Time: 00:00:00.0734361
+2019-04-22 11:03:53.6320 | Query No. 13 | T27AggGrad   | Read Time: 00:00:02.8579898 | Write Time: 00:00:00.1196406
+2019-04-22 11:03:54.3015 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.6090108 | Write Time: 00:00:00.0563114
+2019-04-22 11:03:57.3299 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:02.9647489 | Write Time: 00:00:00.0591093
+2019-04-22 11:03:58.9619 | Query No. 21 | FM1T096      | Read Time: 00:00:01.5694048 | Write Time: 00:00:00.0579013
+2019-04-22 11:04:05.2048 | Sending email notification to District: 01 was FailedDueToBusinessRuleViolation
+2019-04-22 11:04:05.2428 | Sending email notification to District: 02 was FailedDueToBusinessRuleViolation
+2019-04-22 11:04:05.2737 | Sending email notification to District: 03 was FailedDueToBusinessRuleViolation
+2019-04-22 11:04:05.3045 | Sending email notification to District: 04 was FailedDueToBusinessRuleViolation
+2019-04-22 11:04:05.3367 | Sending email notification to District: 05 was FailedDueToBusinessRuleViolation
+2019-04-22 11:04:05.3777 | Sending email notification to District: 06 was FailedDueToBusinessRuleViolation
+2019-04-22 11:04:05.4116 | Sending email notification to District: 07 was FailedDueToBusinessRuleViolation
+2019-04-22 11:04:05.4420 | Sending email notification to District: 99 was FailedDueToBusinessRuleViolation
+2019-04-23 13:20:34.9645 | Query No. 6  | Contact info | Read Time: 00:00:00.6947444 | Write Time: 00:00:00.1139869
+2019-04-23 13:20:35.4903 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.3949422 | Write Time: 00:00:00.1129161
+2019-04-23 13:20:35.7211 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1486202 | Write Time: 00:00:00.0802049
+2019-04-23 13:20:35.8250 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0237295 | Write Time: 00:00:00.0779158
+2019-04-23 13:20:40.2558 | Query No. 10 | Sample info  | Read Time: 00:00:04.4253307 | Write Time: 00:00:00.0779158
+2019-04-23 13:20:46.4306 | Query No. 11 | FM1T011      | Read Time: 00:00:05.0223464 | Write Time: 00:00:01.1503274
+2019-04-23 13:20:53.4958 | Query No. 13 | T27AggGrad   | Read Time: 00:00:02.9620757 | Write Time: 00:00:04.1006314
+2019-04-23 13:20:54.3256 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.6739446 | Write Time: 00:00:00.1537455
+2019-04-23 13:20:57.5248 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:03.0954508 | Write Time: 00:00:00.1020941
+2019-04-23 13:20:59.2867 | Query No. 21 | FM1T096      | Read Time: 00:00:01.6788671 | Write Time: 00:00:00.0807977
+2019-04-23 13:21:06.1840 | Sending email notification to District: 01 was FailedDueToBusinessRuleViolation
+2019-04-23 13:21:06.2420 | Sending email notification to District: 02 was FailedDueToBusinessRuleViolation
+2019-04-23 13:21:06.2728 | Sending email notification to District: 03 was FailedDueToBusinessRuleViolation
+2019-04-23 13:21:06.3223 | Sending email notification to District: 04 was FailedDueToBusinessRuleViolation
+2019-04-23 13:21:06.3543 | Sending email notification to District: 05 was FailedDueToBusinessRuleViolation
+2019-04-23 13:21:06.3863 | Sending email notification to District: 06 was FailedDueToBusinessRuleViolation
+2019-04-23 13:21:06.4213 | Sending email notification to District: 07 was FailedDueToBusinessRuleViolation
+2019-04-23 13:21:06.4572 | Sending email notification to District: 99 was FailedDueToBusinessRuleViolation
+2019-04-23 13:38:03.1433 | Query No. 6  | Contact info | Read Time: 00:00:00.1107688 | Write Time: 00:00:00.0551566
+2019-04-23 13:38:03.3502 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0806092 | Write Time: 00:00:00.1062892
+2019-04-23 13:38:03.5676 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1354843 | Write Time: 00:00:00.0797265
+2019-04-23 13:38:03.7012 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0655549 | Write Time: 00:00:00.0651630
+2019-04-23 13:38:05.8185 | Query No. 10 | Sample info  | Read Time: 00:00:02.1157069 | Write Time: 00:00:00.0651630
+2019-04-23 13:38:08.3840 | Query No. 11 | FM1T011      | Read Time: 00:00:02.4951410 | Write Time: 00:00:00.0690218
+2019-04-23 13:38:12.6537 | Query No. 13 | T27AggGrad   | Read Time: 00:00:02.8523482 | Write Time: 00:00:00.1166340
+2019-04-23 13:38:13.3545 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.6433645 | Write Time: 00:00:00.0558710
+2019-04-23 13:38:16.1442 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:02.7323719 | Write Time: 00:00:00.0546396
+2019-04-23 13:38:17.8774 | Query No. 21 | FM1T096      | Read Time: 00:00:01.6744683 | Write Time: 00:00:00.0574111
+2019-04-23 13:38:34.2352 | Sending email notification to District: 01 was FailedDueToBusinessRuleViolation
+2019-04-23 13:38:40.4133 | Sending email notification to District: 02 was FailedDueToBusinessRuleViolation
+2019-04-23 13:49:08.0371 | Sending email notification to District: 03 was FailedDueToBusinessRuleViolation
+2019-04-23 13:49:11.6317 | Sending email notification to District: 04 was FailedDueToBusinessRuleViolation
+2019-04-23 13:49:12.3551 | Sending email notification to District: 05 was FailedDueToBusinessRuleViolation
+2019-04-23 13:49:12.8992 | Sending email notification to District: 06 was FailedDueToBusinessRuleViolation
+2019-04-23 13:49:13.3416 | Sending email notification to District: 07 was FailedDueToBusinessRuleViolation
+2019-04-23 13:49:13.5747 | Sending email notification to District: 99 was FailedDueToBusinessRuleViolation
+2019-04-23 14:41:26.5543 | Query No. 6  | Contact info | Read Time: 00:00:00.1268566 | Write Time: 00:00:00.0560535
+2019-04-23 14:41:26.7983 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1185754 | Write Time: 00:00:00.1076300
+2019-04-23 14:41:27.0252 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1372490 | Write Time: 00:00:00.0869465
+2019-04-23 14:41:27.1675 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0678863 | Write Time: 00:00:00.0716042
+2019-04-23 14:41:29.4606 | Query No. 10 | Sample info  | Read Time: 00:00:02.2901714 | Write Time: 00:00:00.0716042
+2019-04-23 14:41:32.1507 | Query No. 11 | FM1T011      | Read Time: 00:00:02.6238533 | Write Time: 00:00:00.0641326
+2019-04-23 14:41:35.0834 | Query No. 13 | T27AggGrad   | Read Time: 00:00:02.7505961 | Write Time: 00:00:00.1781420
+2019-04-23 14:41:35.7704 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.6263551 | Write Time: 00:00:00.0560451
+2019-04-23 14:41:38.6331 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:02.8017063 | Write Time: 00:00:00.0564880
+2019-04-23 14:41:40.3293 | Query No. 21 | FM1T096      | Read Time: 00:00:01.6324293 | Write Time: 00:00:00.0588947
+2019-04-29 11:42:58.6405 | Query No. 6  | Contact info | Read Time: 00:00:00.7213021 | Write Time: 00:00:00.1187400
+2019-04-29 11:44:56.5500 | Query No. 6  | Contact info | Read Time: 00:00:00.1218736 | Write Time: 00:00:00.0599124
+2019-04-29 11:44:56.7804 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1071125 | Write Time: 00:00:00.1063073
+2019-04-29 11:44:57.0342 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1530440 | Write Time: 00:00:00.0963634
+2019-04-29 11:44:57.1696 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0691183 | Write Time: 00:00:00.0608915
+2019-04-29 11:45:03.5475 | Query No. 10 | Sample info  | Read Time: 00:00:06.3752298 | Write Time: 00:00:00.0608915
+2019-04-29 11:45:09.1027 | Query No. 11 | FM1T011      | Read Time: 00:00:04.8011410 | Write Time: 00:00:00.7533854
+2019-04-29 11:45:15.0319 | Query No. 13 | T27AggGrad   | Read Time: 00:00:03.0330754 | Write Time: 00:00:02.8943846
+2019-04-29 11:45:15.7324 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.6083072 | Write Time: 00:00:00.0870580
+2019-04-29 11:45:18.5567 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:02.7061352 | Write Time: 00:00:00.1111651
+2019-04-29 11:45:20.1712 | Query No. 21 | FM1T096      | Read Time: 00:00:01.5017106 | Write Time: 00:00:00.1089737
+2019-04-29 11:48:48.3794 | Query No. 6  | Contact info | Read Time: 00:00:00.1280287 | Write Time: 00:00:00.0545520
+2019-04-29 11:48:48.6051 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.0943470 | Write Time: 00:00:00.1049575
+2019-04-29 11:48:48.8299 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1345281 | Write Time: 00:00:00.0867183
+2019-04-29 11:48:48.9666 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0681056 | Write Time: 00:00:00.0656377
+2019-04-29 11:48:51.0608 | Query No. 10 | Sample info  | Read Time: 00:00:02.0914909 | Write Time: 00:00:00.0656377
+2019-04-29 11:48:53.5101 | Query No. 11 | FM1T011      | Read Time: 00:00:02.3757349 | Write Time: 00:00:00.0720176
+2019-04-29 11:48:56.6366 | Query No. 13 | T27AggGrad   | Read Time: 00:00:02.9874941 | Write Time: 00:00:00.1347837
+2019-04-29 11:48:57.3445 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.6472385 | Write Time: 00:00:00.0565136
+2019-04-29 11:48:59.8928 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:02.4903163 | Write Time: 00:00:00.0553809
+2019-04-29 11:49:01.3953 | Query No. 21 | FM1T096      | Read Time: 00:00:01.4427004 | Write Time: 00:00:00.0575465
+2019-05-09 10:59:50.9338 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2626008 | Write Time: 00:00:00.1060272
+2019-05-09 10:59:51.1667 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1375898 | Write Time: 00:00:00.0762962
+2019-05-09 10:59:51.2991 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0657296 | Write Time: 00:00:00.0653154
+2019-05-09 10:59:55.7349 | Query No. 10 | Sample info  | Read Time: 00:00:04.4338785 | Write Time: 00:00:00.0653154
+2019-05-09 11:00:02.4406 | Query No. 11 | FM1T011      | Read Time: 00:00:04.7072926 | Write Time: 00:00:01.9969635
+2019-05-09 11:00:09.3951 | Query No. 13 | T27AggGrad   | Read Time: 00:00:03.0799731 | Write Time: 00:00:03.8731757
+2019-05-09 11:00:10.2999 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.7683387 | Write Time: 00:00:00.1354911
+2019-05-09 11:00:14.0296 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:03.5532056 | Write Time: 00:00:00.1743611
+2019-05-09 11:00:16.0893 | Query No. 21 | FM1T096      | Read Time: 00:00:01.7279540 | Write Time: 00:00:00.3308128
+2019-05-13 14:51:44.8353 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.3483707 | Write Time: 00:00:00.1203119
+2019-05-13 14:51:45.0682 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1389971 | Write Time: 00:00:00.0768770
+2019-05-13 14:51:45.1961 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0656641 | Write Time: 00:00:00.0609335
+2019-05-13 14:52:01.7107 | Query No. 10 | Sample info  | Read Time: 00:00:16.5129403 | Write Time: 00:00:00.0609335
+2019-05-13 14:52:08.0718 | Query No. 11 | FM1T011      | Read Time: 00:00:05.1008984 | Write Time: 00:00:01.2557949
+2019-05-13 14:52:15.9852 | Query No. 13 | T27AggGrad   | Read Time: 00:00:03.7976731 | Write Time: 00:00:04.1127296
+2019-05-13 14:52:16.6847 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.6090287 | Write Time: 00:00:00.0886193
+2019-05-13 14:52:20.1388 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:03.3418897 | Write Time: 00:00:00.1098999
+2019-05-13 14:52:22.4153 | Query No. 21 | FM1T096      | Read Time: 00:00:02.1840929 | Write Time: 00:00:00.0915217
+2019-05-17 09:38:06.5682 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.3126669 | Write Time: 00:00:00.1751718
+2019-05-17 09:38:06.8031 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1387513 | Write Time: 00:00:00.0767121
+2019-05-17 09:38:06.9380 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0664298 | Write Time: 00:00:00.0665906
+2019-05-17 09:38:12.0037 | Query No. 10 | Sample info  | Read Time: 00:00:05.0642810 | Write Time: 00:00:00.0665906
+2019-05-17 09:38:19.0094 | Query No. 11 | FM1T011      | Read Time: 00:00:04.6099900 | Write Time: 00:00:02.3934252
+2019-05-17 09:38:26.3975 | Query No. 13 | T27AggGrad   | Read Time: 00:00:02.8555737 | Write Time: 00:00:04.5295652
+2019-05-17 09:38:27.2011 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:00.6799997 | Write Time: 00:00:00.1220153
+2019-05-17 09:38:30.8624 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:03.4395240 | Write Time: 00:00:00.2185168
+2019-05-17 09:38:32.7217 | Query No. 21 | FM1T096      | Read Time: 00:00:01.6029955 | Write Time: 00:00:00.2523688
+2019-05-20 14:29:02.4999 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.4048640 | Write Time: 00:00:00.1856271
+2019-05-20 14:29:02.7327 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1403429 | Write Time: 00:00:00.0751342
+2019-05-20 14:29:02.8657 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0650348 | Write Time: 00:00:00.0670527
+2019-05-20 14:34:14.3511 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.4788696 | Write Time: 00:00:00.1391601
+2019-05-20 14:34:14.5819 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1375696 | Write Time: 00:00:00.0764163
+2019-05-20 14:34:14.7269 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0712997 | Write Time: 00:00:00.0719936
+2019-05-20 14:34:55.0219 | Query No. 10 | Sample info  | Read Time: 00:00:40.2941655 | Write Time: 00:00:00.0719936
+2019-05-20 14:34:59.2480 | Query No. 11 | FM1T011      | Read Time: 00:00:03.8549658 | Write Time: 00:00:00.3673388
+2019-05-20 14:35:32.0779 | Query No. 13 | T27AggGrad   | Read Time: 00:00:32.7004811 | Write Time: 00:00:00.1274901
+2019-05-20 14:35:37.0020 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:04.8663650 | Write Time: 00:00:00.0550237
+2019-05-20 14:35:55.2013 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:18.1347524 | Write Time: 00:00:00.0619563
+2019-05-20 14:36:01.1463 | Query No. 21 | FM1T096      | Read Time: 00:00:05.8806791 | Write Time: 00:00:00.0599758
+2019-07-01 14:29:34.0244 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.5639053 | Write Time: 00:00:00.3362037
+2019-07-01 14:29:34.2623 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0918607 | Write Time: 00:00:00.1281724
+2019-07-01 14:29:34.4643 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0931650 | Write Time: 00:00:00.1077240
+2019-07-01 14:30:07.2623 | Query No. 10 | Sample info  | Read Time: 00:00:32.7946911 | Write Time: 00:00:00.1077240
+2019-07-01 14:30:13.2946 | Query No. 11 | FM1T011      | Read Time: 00:00:04.9545241 | Write Time: 00:00:01.0734840
+2019-07-01 14:30:55.4467 | Query No. 13 | T27AggGrad   | Read Time: 00:00:41.9137644 | Write Time: 00:00:00.2369098
+2019-07-01 15:35:11.2284 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2269942 | Write Time: 00:00:00.1726311
+2019-07-01 15:35:11.4780 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0832047 | Write Time: 00:00:00.1502747
+2019-07-01 15:35:11.6612 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0898185 | Write Time: 00:00:00.0902476
+2019-07-01 15:38:40.7173 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2360623 | Write Time: 00:00:00.1635246
+2019-07-01 15:38:40.9411 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0642103 | Write Time: 00:00:00.1457482
+2019-07-01 15:38:41.3630 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.3219371 | Write Time: 00:00:00.0986549
+2019-07-01 15:38:48.9017 | Query No. 10 | Sample info  | Read Time: 00:00:07.5337444 | Write Time: 00:00:00.0986549
+2019-07-01 15:38:50.5347 | Query No. 11 | FM1T011      | Read Time: 00:00:01.5179674 | Write Time: 00:00:00.1103407
+2019-07-01 15:39:25.4374 | Query No. 13 | T27AggGrad   | Read Time: 00:00:34.7297432 | Write Time: 00:00:00.1714994
+2019-07-01 15:43:57.0939 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2293966 | Write Time: 00:00:00.1565074
+2019-07-01 15:43:57.3045 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0662413 | Write Time: 00:00:00.1266927
+2019-07-01 15:43:57.4894 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0920081 | Write Time: 00:00:00.0912328
+2019-07-01 15:44:03.8761 | Query No. 10 | Sample info  | Read Time: 00:00:06.3821048 | Write Time: 00:00:00.0912328
+2019-07-01 15:44:05.4759 | Query No. 11 | FM1T011      | Read Time: 00:00:01.4964116 | Write Time: 00:00:00.0994946
+2019-07-01 15:44:42.3904 | Query No. 13 | T27AggGrad   | Read Time: 00:00:36.7444167 | Write Time: 00:00:00.1686912
+2019-07-01 15:47:37.3024 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2561684 | Write Time: 00:00:00.1756798
+2019-07-01 15:47:37.5433 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0681381 | Write Time: 00:00:00.1569850
+2019-07-01 15:47:37.7558 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.1104915 | Write Time: 00:00:00.1004139
+2019-07-01 15:47:47.2661 | Query No. 10 | Sample info  | Read Time: 00:00:09.5047932 | Write Time: 00:00:00.1004139
+2019-07-01 15:47:50.0213 | Query No. 11 | FM1T011      | Read Time: 00:00:02.6685569 | Write Time: 00:00:00.0816149
+2019-07-01 15:47:54.3471 | Query No. 13 | T27AggGrad   | Read Time: 00:00:04.0445386 | Write Time: 00:00:00.2769723
+2019-07-01 15:52:07.1221 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.3599628 | Write Time: 00:00:00.3079890
+2019-07-01 15:52:07.6933 | Query No. 8  | Agg. Products| Read Time: 00:00:00.4116960 | Write Time: 00:00:00.1431639
+2019-07-01 15:52:07.8877 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0944799 | Write Time: 00:00:00.0981385
+2019-07-01 15:52:11.4950 | Query No. 10 | Sample info  | Read Time: 00:00:03.6030500 | Write Time: 00:00:00.0981385
+2019-07-01 15:52:15.1044 | Query No. 11 | FM1T011      | Read Time: 00:00:03.5083888 | Write Time: 00:00:00.0993138
+2019-07-01 15:52:21.7567 | Query No. 13 | T27AggGrad   | Read Time: 00:00:06.4633013 | Write Time: 00:00:00.1871944
+2019-07-01 16:11:12.3399 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2285534 | Write Time: 00:00:00.1620080
+2019-07-01 16:11:12.5492 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0870724 | Write Time: 00:00:00.1072837
+2019-07-01 16:11:12.7321 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0902210 | Write Time: 00:00:00.0902796
+2019-07-01 16:11:15.5565 | Query No. 10 | Sample info  | Read Time: 00:00:02.8199924 | Write Time: 00:00:00.0902796
+2019-07-01 16:11:19.4448 | Query No. 11 | FM1T011      | Read Time: 00:00:03.5511650 | Write Time: 00:00:00.3349974
+2019-07-01 16:14:59.6636 | Query No. 13 | T27AggGrad   | Read Time: 00:03:40.0434089 | Write Time: 00:00:00.1909859
+2019-07-01 16:16:14.4712 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:02.8080258 | Write Time: 00:00:00.4637246
+2019-07-01 16:19:05.8176 | Query No. 18 | FM1T085CASG  | Read Time: 00:02:51.2722697 | Write Time: 00:00:00.0826874
+2019-07-01 16:20:51.0792 | Query No. 21 | FM1T096      | Read Time: 00:00:02.2330058 | Write Time: 00:00:00.0833206
+2019-07-01 16:28:27.5874 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2234858 | Write Time: 00:00:00.1549981
+2019-07-01 16:28:27.8176 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0866830 | Write Time: 00:00:00.1272856
+2019-07-01 16:28:28.0105 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.1015475 | Write Time: 00:00:00.0890874
+2019-07-01 16:28:30.6814 | Query No. 10 | Sample info  | Read Time: 00:00:02.6694311 | Write Time: 00:00:00.0890874
+2019-07-01 16:28:34.6130 | Query No. 11 | FM1T011      | Read Time: 00:00:03.8319298 | Write Time: 00:00:00.0977574
+2019-07-01 16:28:48.1691 | Query No. 13 | T27AggGrad   | Read Time: 00:00:13.4072369 | Write Time: 00:00:00.1452468
+2019-07-01 16:29:16.1023 | Query 16
+2019-07-01 16:29:19.4063 | Query 15
+2019-07-01 16:29:19.4092 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:14.9034076 | Write Time: 00:00:00.0000450
+2019-07-01 16:29:39.3669 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:18.6939653 | Write Time: 00:00:01.2632307
+2019-07-01 16:29:52.6670 | Query No. 21 | FM1T096      | Read Time: 00:00:04.4203132 | Write Time: 00:00:00.0814471
+2019-07-02 09:17:23.8740 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.5120630 | Write Time: 00:00:00.1536221
+2019-07-02 09:17:24.1444 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1106520 | Write Time: 00:00:00.1458859
+2019-07-02 09:17:24.3138 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0877734 | Write Time: 00:00:00.0766743
+2019-07-02 09:20:51.7741 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.3202682 | Write Time: 00:00:00.3382862
+2019-07-02 09:20:52.0755 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1260192 | Write Time: 00:00:00.1603799
+2019-07-02 09:20:52.2582 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0986156 | Write Time: 00:00:00.0798214
+2019-07-02 09:21:00.5847 | Query No. 10 | Sample info  | Read Time: 00:00:08.3213785 | Write Time: 00:00:00.0798214
+2019-07-02 09:21:04.5261 | Query No. 11 | FM1T011      | Read Time: 00:00:02.2032381 | Write Time: 00:00:01.7370577
+2019-07-02 09:21:11.1853 | Query No. 13 | T27AggGrad   | Read Time: 00:00:03.4302841 | Write Time: 00:00:03.2264472
+2019-07-02 11:29:50.1532 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.3475923 | Write Time: 00:00:00.1570325
+2019-07-02 11:29:50.4051 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1014641 | Write Time: 00:00:00.1350175
+2019-07-02 11:29:50.5689 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0809972 | Write Time: 00:00:00.0785841
+2019-07-02 11:44:26.0658 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2539226 | Write Time: 00:00:00.1543193
+2019-07-02 11:44:26.3476 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1317419 | Write Time: 00:00:00.1355397
+2019-07-02 11:44:26.5156 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0805245 | Write Time: 00:00:00.0860687
+2019-07-02 11:46:26.2799 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2452497 | Write Time: 00:00:00.1543310
+2019-07-02 11:46:26.5372 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1034476 | Write Time: 00:00:00.1404541
+2019-07-02 11:46:26.7153 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0931494 | Write Time: 00:00:00.0836275
+2019-07-02 11:46:35.2416 | Query No. 10 | Sample info  | Read Time: 00:00:08.5210535 | Write Time: 00:00:00.0836275
+2019-07-02 11:46:37.7547 | Query No. 11 | FM1T011      | Read Time: 00:00:02.4177416 | Write Time: 00:00:00.0897216
+2019-07-02 11:46:41.2584 | Query No. 13 | T27AggGrad   | Read Time: 00:00:03.2666804 | Write Time: 00:00:00.2323648
+2019-07-02 13:01:58.4944 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2682862 | Write Time: 00:00:00.1749957
+2019-07-02 13:01:58.7184 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0839504 | Write Time: 00:00:00.1254985
+2019-07-02 13:01:58.8998 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0995727 | Write Time: 00:00:00.0794593
+2019-07-02 13:02:05.1826 | Query No. 10 | Sample info  | Read Time: 00:00:06.2814368 | Write Time: 00:00:00.0794593
+2019-07-02 13:02:07.1390 | Query No. 11 | FM1T011      | Read Time: 00:00:01.8487002 | Write Time: 00:00:00.1026583
+2019-07-02 13:02:10.2110 | Query No. 13 | T27AggGrad   | Read Time: 00:00:02.8440898 | Write Time: 00:00:00.2241272
+2019-07-02 13:11:00.9631 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2741960 | Write Time: 00:00:00.1443562
+2019-07-02 13:11:01.2035 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0797555 | Write Time: 00:00:00.1455537
+2019-07-02 13:11:01.3841 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0994219 | Write Time: 00:00:00.0794612
+2019-07-02 13:11:07.0889 | Query No. 10 | Sample info  | Read Time: 00:00:05.6993714 | Write Time: 00:00:00.0794612
+2019-07-02 13:11:08.9247 | Query No. 11 | FM1T011      | Read Time: 00:00:01.7429583 | Write Time: 00:00:00.0910098
+2019-07-02 13:11:12.1434 | Query No. 13 | T27AggGrad   | Read Time: 00:00:03.0136955 | Write Time: 00:00:00.2022402
+2019-07-02 13:26:19.9941 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2429020 | Write Time: 00:00:00.1598146
+2019-07-02 13:26:20.3601 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1750495 | Write Time: 00:00:00.1738083
+2019-07-02 13:26:20.5526 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.1056595 | Write Time: 00:00:00.0827058
+2019-07-02 13:26:26.0773 | Query No. 10 | Sample info  | Read Time: 00:00:05.5209357 | Write Time: 00:00:00.0827058
+2019-07-02 13:26:27.7361 | Query No. 11 | FM1T011      | Read Time: 00:00:01.5618908 | Write Time: 00:00:00.0941453
+2019-07-02 13:26:30.2374 | Query No. 13 | T27AggGrad   | Read Time: 00:00:02.2862537 | Write Time: 00:00:00.2101142
+2019-07-02 13:53:13.0411 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2698785 | Write Time: 00:00:00.1602306
+2019-07-02 13:53:13.2764 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0878850 | Write Time: 00:00:00.1292803
+2019-07-02 13:53:13.4452 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.1011169 | Write Time: 00:00:00.0662506
+2019-07-02 13:53:20.5661 | Query No. 10 | Sample info  | Read Time: 00:00:07.1189977 | Write Time: 00:00:00.0662506
+2019-07-02 13:53:23.2227 | Query No. 11 | FM1T011      | Read Time: 00:00:02.5545260 | Write Time: 00:00:00.0974714
+2019-07-02 13:53:27.7975 | Query No. 13 | T27AggGrad   | Read Time: 00:00:04.2866309 | Write Time: 00:00:00.2847580
+2019-07-02 13:53:35.3579 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:07.4899539 | Write Time: 00:00:00.0676552
+2019-07-02 13:53:45.1212 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:09.6908449 | Write Time: 00:00:00.0703325
+2019-07-02 13:53:47.0216 | Query No. 21 | FM1T096      | Read Time: 00:00:01.8323696 | Write Time: 00:00:00.0636091
+2019-07-02 14:20:49.5355 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2267260 | Write Time: 00:00:00.1626960
+2019-07-02 14:20:49.7698 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0955203 | Write Time: 00:00:00.1236784
+2019-07-02 14:20:49.9602 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0977637 | Write Time: 00:00:00.0913022
+2019-07-02 14:20:55.2748 | Query No. 10 | Sample info  | Read Time: 00:00:05.3117921 | Write Time: 00:00:00.0913022
+2019-07-02 14:25:16.3330 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2339934 | Write Time: 00:00:00.1648943
+2019-07-02 14:25:16.5861 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1043897 | Write Time: 00:00:00.1327780
+2019-07-02 14:25:16.7626 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0993846 | Write Time: 00:00:00.0752668
+2019-07-02 14:25:23.1665 | Query No. 10 | Sample info  | Read Time: 00:00:06.3955908 | Write Time: 00:00:00.0752668
+2019-07-02 14:26:32.9676 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2411890 | Write Time: 00:00:00.1640134
+2019-07-02 14:26:33.1985 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0878185 | Write Time: 00:00:00.1282175
+2019-07-02 14:26:33.3846 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0964517 | Write Time: 00:00:00.0869225
+2019-07-02 14:26:38.8397 | Query No. 10 | Sample info  | Read Time: 00:00:05.4499602 | Write Time: 00:00:00.0869225
+2019-07-02 14:26:41.6915 | Query No. 11 | FM1T011      | Read Time: 00:00:02.7569932 | Write Time: 00:00:00.0900794
+2019-07-02 14:26:44.5363 | Query No. 13 | T27AggGrad   | Read Time: 00:00:02.5861046 | Write Time: 00:00:00.2572603
+2019-07-02 14:26:50.4170 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:05.8079594 | Write Time: 00:00:00.0675941
+2019-07-02 14:26:56.3234 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:05.8334799 | Write Time: 00:00:00.0687543
+2019-07-02 14:26:57.8070 | Query No. 21 | FM1T096      | Read Time: 00:00:01.4085009 | Write Time: 00:00:00.0726438
+2019-07-02 14:46:51.6783 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1771023 | Write Time: 00:00:00.1392740
+2019-07-02 14:46:51.8713 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0681672 | Write Time: 00:00:00.1105114
+2019-07-02 14:46:51.9709 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0166986 | Write Time: 00:00:00.0809783
+2019-07-02 14:46:58.1164 | Query No. 10 | Sample info  | Read Time: 00:00:06.1440522 | Write Time: 00:00:00.0809783
+2019-07-02 14:46:59.8762 | Query No. 11 | FM1T011      | Read Time: 00:00:01.6747639 | Write Time: 00:00:00.0829797
+2019-07-02 14:47:02.7800 | Query No. 13 | T27AggGrad   | Read Time: 00:00:02.7238063 | Write Time: 00:00:00.1771372
+2019-07-02 14:47:08.7089 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:05.8618183 | Write Time: 00:00:00.0632959
+2019-07-02 14:47:14.8099 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:06.0288765 | Write Time: 00:00:00.0709977
+2019-07-02 14:47:16.4687 | Query No. 21 | FM1T096      | Read Time: 00:00:01.5943286 | Write Time: 00:00:00.0631354
+2019-07-02 14:53:34.1795 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1550568 | Write Time: 00:00:00.1598708
+2019-07-02 14:53:34.4095 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0650525 | Write Time: 00:00:00.1497293
+2019-07-02 14:53:34.5151 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0171898 | Write Time: 00:00:00.0833710
+2019-07-02 14:53:42.3305 | Query No. 10 | Sample info  | Read Time: 00:00:07.8132360 | Write Time: 00:00:00.0833710
+2019-07-02 14:53:44.6210 | Query No. 11 | FM1T011      | Read Time: 00:00:02.1857884 | Write Time: 00:00:00.1031708
+2019-07-02 14:53:48.2124 | Query No. 13 | T27AggGrad   | Read Time: 00:00:03.3942769 | Write Time: 00:00:00.1945806
+2019-07-02 14:53:54.9027 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:06.6233041 | Write Time: 00:00:00.0645652
+2019-07-02 14:54:01.5120 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:06.5408125 | Write Time: 00:00:00.0671039
+2019-07-02 14:54:02.6885 | Query No. 21 | FM1T096      | Read Time: 00:00:01.1073952 | Write Time: 00:00:00.0668232
+2019-07-02 14:58:40.2940 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1906659 | Write Time: 00:00:00.1586354
+2019-07-02 14:58:40.5423 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1051092 | Write Time: 00:00:00.1286384
+2019-07-02 14:58:40.6428 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0213527 | Write Time: 00:00:00.0751655
+2019-07-02 14:58:48.6119 | Query No. 10 | Sample info  | Read Time: 00:00:07.9677668 | Write Time: 00:00:00.0751655
+2019-07-02 14:58:53.0962 | Query No. 11 | FM1T011      | Read Time: 00:00:04.3875142 | Write Time: 00:00:00.0920401
+2019-07-02 14:58:57.7978 | Query No. 13 | T27AggGrad   | Read Time: 00:00:04.5023922 | Write Time: 00:00:00.1966853
+2019-07-02 14:59:04.2530 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:06.3786425 | Write Time: 00:00:00.0724217
+2019-07-02 14:59:10.4483 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:06.1240095 | Write Time: 00:00:00.0664707
+2019-07-02 14:59:11.6841 | Query No. 21 | FM1T096      | Read Time: 00:00:01.1620478 | Write Time: 00:00:00.0703194
+2019-07-02 15:21:41.4892 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1437598 | Write Time: 00:00:00.1570994
+2019-07-02 15:21:41.7229 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0875010 | Write Time: 00:00:00.1314321
+2019-07-02 15:21:41.8178 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0173347 | Write Time: 00:00:00.0754127
+2019-07-02 15:21:47.9266 | Query No. 10 | Sample info  | Read Time: 00:00:06.1027785 | Write Time: 00:00:00.0754127
+2019-07-02 15:21:49.7570 | Query No. 11 | FM1T011      | Read Time: 00:00:01.7399667 | Write Time: 00:00:00.0851630
+2019-07-02 15:21:52.8372 | Query No. 13 | T27AggGrad   | Read Time: 00:00:02.9060320 | Write Time: 00:00:00.1729763
+2019-07-02 15:21:58.3306 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:05.4238992 | Write Time: 00:00:00.0674588
+2019-07-02 15:22:03.9598 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:05.5613075 | Write Time: 00:00:00.0650622
+2019-07-02 15:22:04.9652 | Query No. 21 | FM1T096      | Read Time: 00:00:00.9381222 | Write Time: 00:00:00.0653046
+2019-07-02 15:38:33.8693 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1640968 | Write Time: 00:00:00.1478597
+2019-07-02 15:38:34.1099 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0913007 | Write Time: 00:00:00.1331082
+2019-07-02 15:38:34.2032 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0168062 | Write Time: 00:00:00.0750942
+2019-07-02 15:38:39.9952 | Query No. 10 | Sample info  | Read Time: 00:00:05.7903429 | Write Time: 00:00:00.0750942
+2019-07-02 15:38:41.8263 | Query No. 11 | FM1T011      | Read Time: 00:00:01.7371197 | Write Time: 00:00:00.0906297
+2019-07-02 15:38:45.3752 | Query No. 13 | T27AggGrad   | Read Time: 00:00:03.3545485 | Write Time: 00:00:00.1925137
+2019-07-02 15:38:52.1120 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:06.6709675 | Write Time: 00:00:00.0620809
+2019-07-02 15:38:59.4968 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:07.3155129 | Write Time: 00:00:00.0655315
+2019-07-02 15:39:00.7079 | Query No. 21 | FM1T096      | Read Time: 00:00:01.1403712 | Write Time: 00:00:00.0657613
+2019-07-03 06:04:00.7973 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2897703 | Write Time: 00:00:00.1406597
+2019-07-03 06:04:01.0038 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0783795 | Write Time: 00:00:00.1079572
+2019-07-03 06:04:01.0995 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0173221 | Write Time: 00:00:00.0762142
+2019-07-03 06:04:11.1196 | Query No. 10 | Sample info  | Read Time: 00:00:10.0187451 | Write Time: 00:00:00.0762142
+2019-07-03 06:04:15.5415 | Query No. 11 | FM1T011      | Read Time: 00:00:04.3385344 | Write Time: 00:00:00.0813361
+2019-07-03 06:04:21.5828 | Query No. 13 | T27AggGrad   | Read Time: 00:00:05.8602745 | Write Time: 00:00:00.1790039
+2019-07-03 06:04:29.5146 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:07.8304491 | Write Time: 00:00:00.1004828
+2019-07-03 06:04:42.2473 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:12.6366214 | Write Time: 00:00:00.0942476
+2019-07-03 06:04:48.3068 | Query No. 21 | FM1T096      | Read Time: 00:00:05.9573382 | Write Time: 00:00:00.0997060
+2019-07-03 06:06:14.4997 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1601981 | Write Time: 00:00:00.1591707
+2019-07-03 06:06:14.7153 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0778675 | Write Time: 00:00:00.1191179
+2019-07-03 06:06:14.8110 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0159296 | Write Time: 00:00:00.0775276
+2019-07-03 06:06:18.5814 | Query No. 10 | Sample info  | Read Time: 00:00:03.7690634 | Write Time: 00:00:00.0775276
+2019-07-03 06:06:21.0999 | Query No. 11 | FM1T011      | Read Time: 00:00:02.4302415 | Write Time: 00:00:00.0865584
+2019-07-03 06:06:23.8440 | Query No. 13 | T27AggGrad   | Read Time: 00:00:02.5699107 | Write Time: 00:00:00.1727183
+2019-07-03 06:06:28.0708 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:04.1492687 | Write Time: 00:00:00.0762030
+2019-07-03 06:06:32.3523 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:04.2137811 | Write Time: 00:00:00.0653958
+2019-07-03 06:06:34.2500 | Query No. 21 | FM1T096      | Read Time: 00:00:01.6166243 | Write Time: 00:00:00.2792991
+2019-07-03 06:29:16.4395 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.5093279 | Write Time: 00:00:00.1540274
+2019-07-03 06:29:16.6910 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1072115 | Write Time: 00:00:00.1246859
+2019-07-03 06:29:16.7898 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0197081 | Write Time: 00:00:00.0765027
+2019-07-03 06:29:32.8136 | Query No. 10 | Sample info  | Read Time: 00:00:16.0219674 | Write Time: 00:00:00.0765027
+2019-07-03 06:29:38.2117 | Query No. 11 | FM1T011      | Read Time: 00:00:05.3125975 | Write Time: 00:00:00.0840610
+2019-07-03 06:29:43.3664 | Query No. 13 | T27AggGrad   | Read Time: 00:00:04.9634657 | Write Time: 00:00:00.1896453
+2019-07-03 06:29:46.4756 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:03.0435795 | Write Time: 00:00:00.0642360
+2019-07-03 06:29:50.2015 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:03.4417047 | Write Time: 00:00:00.2835968
+2019-07-03 06:29:52.0434 | Query No. 21 | FM1T096      | Read Time: 00:00:01.7755939 | Write Time: 00:00:00.0641163
+2019-07-03 07:33:21.8885 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2000924 | Write Time: 00:00:00.1453327
+2019-07-03 07:33:22.0989 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0817385 | Write Time: 00:00:00.1119291
+2019-07-03 07:33:22.1960 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0184979 | Write Time: 00:00:00.0751039
+2019-07-03 07:33:24.5607 | Query No. 10 | Sample info  | Read Time: 00:00:02.3600423 | Write Time: 00:00:00.0751039
+2019-07-03 07:33:27.7633 | Query No. 11 | FM1T011      | Read Time: 00:00:03.0880634 | Write Time: 00:00:00.1100900
+2019-07-03 07:33:33.4247 | Query No. 13 | T27AggGrad   | Read Time: 00:00:05.4845929 | Write Time: 00:00:00.1750529
+2019-07-03 07:33:36.7101 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:03.2027910 | Write Time: 00:00:00.0775829
+2019-07-03 07:33:37.5261 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:00.7396657 | Write Time: 00:00:00.0708508
+2019-07-03 07:33:39.2993 | Query No. 21 | FM1T096      | Read Time: 00:00:01.7057258 | Write Time: 00:00:00.0630767
+2019-07-03 07:45:05.9544 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1858340 | Write Time: 00:00:00.1407984
+2019-07-03 07:45:06.1836 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0851524 | Write Time: 00:00:00.1264706
+2019-07-03 07:45:06.2733 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0185250 | Write Time: 00:00:00.0663349
+2019-07-03 07:45:08.7180 | Query No. 10 | Sample info  | Read Time: 00:00:02.4426327 | Write Time: 00:00:00.0663349
+2019-07-03 07:45:12.0892 | Query No. 11 | FM1T011      | Read Time: 00:00:03.2786256 | Write Time: 00:00:00.0908590
+2019-07-03 07:45:17.6129 | Query No. 13 | T27AggGrad   | Read Time: 00:00:05.3563327 | Write Time: 00:00:00.1653530
+2019-07-03 07:45:20.7274 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:03.0498879 | Write Time: 00:00:00.0634918
+2019-07-03 07:45:21.5088 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:00.7120303 | Write Time: 00:00:00.0673996
+2019-07-03 07:45:23.1145 | Query No. 21 | FM1T096      | Read Time: 00:00:01.5379897 | Write Time: 00:00:00.0635150
+2019-07-03 07:49:57.7405 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1628473 | Write Time: 00:00:00.1619886
+2019-07-03 07:49:57.9496 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0809143 | Write Time: 00:00:00.1126491
+2019-07-03 07:49:58.0507 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0187776 | Write Time: 00:00:00.0777313
+2019-07-03 07:50:00.2846 | Query No. 10 | Sample info  | Read Time: 00:00:02.2322005 | Write Time: 00:00:00.0777313
+2019-07-03 07:50:03.2117 | Query No. 11 | FM1T011      | Read Time: 00:00:02.8423725 | Write Time: 00:00:00.0834137
+2019-07-03 07:50:08.4027 | Query No. 13 | T27AggGrad   | Read Time: 00:00:05.0153255 | Write Time: 00:00:00.1735857
+2019-07-03 07:50:11.4612 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:02.9848562 | Write Time: 00:00:00.0687509
+2019-07-03 07:50:12.2143 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:00.6780793 | Write Time: 00:00:00.0722501
+2019-07-03 07:50:13.8289 | Query No. 21 | FM1T096      | Read Time: 00:00:01.5459175 | Write Time: 00:00:00.0670976
+2019-07-10 06:17:03.0230 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.4548281 | Write Time: 00:00:00.2114073
+2019-07-10 06:17:03.2390 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0781793 | Write Time: 00:00:00.1214403
+2019-07-10 06:17:03.3367 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0198312 | Write Time: 00:00:00.0764595
+2019-07-10 06:17:09.4444 | Query No. 10 | Sample info  | Read Time: 00:00:06.1061574 | Write Time: 00:00:00.0764595
+2019-07-10 06:17:18.3961 | Query No. 11 | FM1T011      | Read Time: 00:00:05.5280503 | Write Time: 00:00:03.4217440
+2019-07-10 06:17:33.3660 | Query No. 13 | T27AggGrad   | Read Time: 00:00:05.9550356 | Write Time: 00:00:09.0136188
+2019-07-10 06:17:36.9127 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:03.3195667 | Write Time: 00:00:00.2256526
+2019-07-10 06:17:37.9330 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:00.6272061 | Write Time: 00:00:00.3924820
+2019-07-10 06:17:40.2797 | Query No. 21 | FM1T096      | Read Time: 00:00:02.0416183 | Write Time: 00:00:00.3036593
+2019-07-10 08:19:20.4886 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1934819 | Write Time: 00:00:00.1571678
+2019-07-10 08:19:20.7383 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0989632 | Write Time: 00:00:00.1316187
+2019-07-10 08:19:20.8475 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0218976 | Write Time: 00:00:00.0818273
+2019-07-10 08:19:28.3932 | Query No. 10 | Sample info  | Read Time: 00:00:07.5435568 | Write Time: 00:00:00.0818273
+2019-07-10 08:19:30.3825 | Query No. 11 | FM1T011      | Read Time: 00:00:01.8855264 | Write Time: 00:00:00.0988168
+2019-07-10 08:19:36.0043 | Query No. 13 | T27AggGrad   | Read Time: 00:00:05.3822755 | Write Time: 00:00:00.2381301
+2019-07-10 08:19:41.4302 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:05.3489063 | Write Time: 00:00:00.0707165
+2019-07-10 08:19:41.7172 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:00.2099736 | Write Time: 00:00:00.0712464
+2019-07-10 08:19:42.8329 | Query No. 21 | FM1T096      | Read Time: 00:00:01.0487024 | Write Time: 00:00:00.0655771
+2019-07-26 11:06:54.5882 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.7202973 | Write Time: 00:00:00.3003557
+2019-07-26 11:06:54.8462 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1013691 | Write Time: 00:00:00.1350142
+2019-07-26 11:06:54.9537 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0214336 | Write Time: 00:00:00.0813934
+2019-07-26 11:10:20.7499 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2856541 | Write Time: 00:00:00.1595218
+2019-07-26 11:10:21.0206 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1246011 | Write Time: 00:00:00.1308047
+2019-07-26 11:10:21.1086 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0223582 | Write Time: 00:00:00.0646409
+2019-07-26 11:10:28.5755 | Query No. 10 | Sample info  | Read Time: 00:00:07.4652089 | Write Time: 00:00:00.0646409
+2019-07-26 11:10:32.5182 | Query No. 11 | FM1T011      | Read Time: 00:00:01.8269906 | Write Time: 00:00:02.1141963
+2019-07-26 11:10:39.2420 | Query No. 13 | T27AggGrad   | Read Time: 00:00:02.5918431 | Write Time: 00:00:04.1308387
+2019-07-26 11:10:45.0997 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:05.7274798 | Write Time: 00:00:00.1291228
+2019-07-26 11:10:45.6438 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:00.2059775 | Write Time: 00:00:00.3350762
+2019-07-26 11:10:47.2339 | Query No. 21 | FM1T096      | Read Time: 00:00:01.1674685 | Write Time: 00:00:00.4212526
+2019-08-13 09:37:46.3669 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1546257 | Write Time: 00:00:00.1640012
+2019-08-13 09:37:46.6012 | Query No. 8  | Agg. Products| Read Time: 00:00:00.1043886 | Write Time: 00:00:00.1140235
+2019-08-13 09:37:46.6940 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0170011 | Write Time: 00:00:00.0750898
+2019-08-13 09:37:54.5795 | Query No. 10 | Sample info  | Read Time: 00:00:07.8833519 | Write Time: 00:00:00.0750898
+2019-08-13 09:37:58.4482 | Query No. 11 | FM1T011      | Read Time: 00:00:01.7851857 | Write Time: 00:00:02.0802505
+2019-08-13 09:38:06.0062 | Query No. 13 | T27AggGrad   | Read Time: 00:00:02.6855825 | Write Time: 00:00:04.8686489
+2019-08-13 09:38:11.6201 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:05.4532943 | Write Time: 00:00:00.1544375
+2019-08-13 09:38:12.0704 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:00.2174178 | Write Time: 00:00:00.2257596
+2019-08-13 09:38:13.3731 | Query No. 21 | FM1T096      | Read Time: 00:00:01.0328658 | Write Time: 00:00:00.2677489
+2019-08-13 11:11:17.7286 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1867929 | Write Time: 00:00:00.1617306
+2019-08-13 11:11:17.9570 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0860357 | Write Time: 00:00:00.1275004
+2019-08-13 11:11:18.0570 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0165895 | Write Time: 00:00:00.0714937
+2019-08-13 11:11:24.7014 | Query No. 10 | Sample info  | Read Time: 00:00:06.6433285 | Write Time: 00:00:00.0714937
+2019-08-13 11:11:27.0262 | Query No. 11 | FM1T011      | Read Time: 00:00:02.2341431 | Write Time: 00:00:00.0890650
+2019-08-13 11:11:30.5151 | Query No. 13 | T27AggGrad   | Read Time: 00:00:03.2820834 | Write Time: 00:00:00.2049306
+2019-08-13 11:11:38.3782 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:07.7860216 | Write Time: 00:00:00.0734437
+2019-08-13 11:11:38.6937 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:00.2501499 | Write Time: 00:00:00.0642384
+2019-08-13 11:11:40.0995 | Query No. 21 | FM1T096      | Read Time: 00:00:01.3302647 | Write Time: 00:00:00.0715538
+2019-08-13 11:23:17.1146 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1233064 | Write Time: 00:00:00.2606696
+2019-08-13 11:23:17.4139 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0988575 | Write Time: 00:00:00.1859522
+2019-08-13 11:23:17.8453 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.3513449 | Write Time: 00:00:00.0781235
+2019-08-13 11:23:27.3045 | Query No. 10 | Sample info  | Read Time: 00:00:09.4568972 | Write Time: 00:00:00.0781235
+2019-08-13 11:23:31.9831 | Query No. 11 | FM1T011      | Read Time: 00:00:04.5447594 | Write Time: 00:00:00.1319047
+2019-08-13 11:23:36.1210 | Query No. 13 | T27AggGrad   | Read Time: 00:00:03.8848539 | Write Time: 00:00:00.2501804
+2019-08-13 11:23:48.0589 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:11.8629606 | Write Time: 00:00:00.0715053
+2019-08-13 11:23:51.3620 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:03.2301882 | Write Time: 00:00:00.0684348
+2019-08-13 11:23:53.7918 | Query No. 21 | FM1T096      | Read Time: 00:00:02.3557764 | Write Time: 00:00:00.0708711
+2019-08-13 14:50:52.8060 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1620855 | Write Time: 00:00:00.1463590
+2019-08-13 14:50:53.0032 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0681928 | Write Time: 00:00:00.1138214
+2019-08-13 14:50:53.1074 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0240062 | Write Time: 00:00:00.0783853
+2019-08-13 14:50:56.4077 | Query No. 10 | Sample info  | Read Time: 00:00:03.2986754 | Write Time: 00:00:00.0783853
+2019-08-13 14:51:02.7532 | Query No. 11 | FM1T011      | Read Time: 00:00:06.2461111 | Write Time: 00:00:00.0982757
+2019-08-13 14:51:06.2433 | Query No. 13 | T27AggGrad   | Read Time: 00:00:03.3098153 | Write Time: 00:00:00.1787541
+2019-08-13 14:51:11.0184 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:04.7015892 | Write Time: 00:00:00.0720682
+2019-08-13 14:51:12.1386 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:01.0473036 | Write Time: 00:00:00.0688105
+2019-08-13 14:51:14.2606 | Query No. 21 | FM1T096      | Read Time: 00:00:02.0516246 | Write Time: 00:00:00.0694951
+2019-08-14 09:33:24.6794 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2691118 | Write Time: 00:00:00.1465544
+2019-08-14 09:33:24.8940 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0811009 | Write Time: 00:00:00.1154635
+2019-08-14 09:33:24.9964 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0246646 | Write Time: 00:00:00.0745230
+2019-08-14 09:33:30.1386 | Query No. 10 | Sample info  | Read Time: 00:00:05.1405757 | Write Time: 00:00:00.0745230
+2019-08-14 09:33:35.4963 | Query No. 11 | FM1T011      | Read Time: 00:00:05.2452238 | Write Time: 00:00:00.1087780
+2019-08-14 09:33:54.2296 | Query No. 13 | T27AggGrad   | Read Time: 00:00:18.5543783 | Write Time: 00:00:00.1770780
+2019-08-14 09:33:57.8920 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:03.5960156 | Write Time: 00:00:00.0657060
+2019-08-14 09:33:58.8286 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:00.8664045 | Write Time: 00:00:00.0688125
+2019-08-14 09:34:01.3844 | Query No. 21 | FM1T096      | Read Time: 00:00:02.4057812 | Write Time: 00:00:00.1486063
+2019-08-14 11:43:48.8730 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1665408 | Write Time: 00:00:00.1579037
+2019-08-14 11:43:49.0688 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0711261 | Write Time: 00:00:00.1095717
+2019-08-14 11:43:49.2473 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0191277 | Write Time: 00:00:00.1577360
+2019-08-14 11:43:52.3573 | Query No. 10 | Sample info  | Read Time: 00:00:03.1087499 | Write Time: 00:00:00.1577360
+2019-08-14 11:43:54.5026 | Query No. 11 | FM1T011      | Read Time: 00:00:01.9834458 | Write Time: 00:00:00.1601398
+2019-08-14 11:44:14.9305 | Query No. 13 | T27AggGrad   | Read Time: 00:00:20.2440544 | Write Time: 00:00:00.1795449
+2019-08-14 11:44:20.0858 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:05.0825041 | Write Time: 00:00:00.0717375
+2019-08-14 11:44:21.4933 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:01.3343020 | Write Time: 00:00:00.0720876
+2019-08-14 11:44:23.7390 | Query No. 21 | FM1T096      | Read Time: 00:00:02.1716133 | Write Time: 00:00:00.0726457
+2019-08-14 11:54:16.6269 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1609224 | Write Time: 00:00:00.1408153
+2019-08-14 11:54:16.8296 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0696469 | Write Time: 00:00:00.1148347
+2019-08-14 11:54:16.9239 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0198957 | Write Time: 00:00:00.0732682
+2019-08-14 11:54:20.1164 | Query No. 10 | Sample info  | Read Time: 00:00:03.1881577 | Write Time: 00:00:00.0732682
+2019-08-14 11:54:22.1542 | Query No. 11 | FM1T011      | Read Time: 00:00:01.9164209 | Write Time: 00:00:00.1141123
+2019-08-14 11:54:42.2371 | Query No. 13 | T27AggGrad   | Read Time: 00:00:19.9044903 | Write Time: 00:00:00.1768797
+2019-08-14 11:54:46.4076 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:04.1012255 | Write Time: 00:00:00.0676944
+2019-08-14 11:54:47.3620 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:00.8858435 | Write Time: 00:00:00.0671523
+2019-08-14 11:54:49.7944 | Query No. 21 | FM1T096      | Read Time: 00:00:02.3521318 | Write Time: 00:00:00.0769274
+2019-08-14 12:00:16.1365 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1874809 | Write Time: 00:00:00.1448662
+2019-08-14 12:00:16.4019 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0994364 | Write Time: 00:00:00.1509161
+2019-08-14 12:00:16.4980 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0180038 | Write Time: 00:00:00.0736944
+2019-08-14 12:00:20.4999 | Query No. 10 | Sample info  | Read Time: 00:00:04.0005313 | Write Time: 00:00:00.0736944
+2019-08-14 12:00:22.6227 | Query No. 11 | FM1T011      | Read Time: 00:00:02.0180663 | Write Time: 00:00:00.1032153
+2019-08-14 12:00:44.2988 | Query No. 13 | T27AggGrad   | Read Time: 00:00:21.4540958 | Write Time: 00:00:00.2206668
+2019-08-14 12:00:50.0404 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:05.6345678 | Write Time: 00:00:00.1028323
+2019-08-14 12:00:51.6049 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:01.4843702 | Write Time: 00:00:00.0756081
+2019-08-14 12:00:54.6020 | Query No. 21 | FM1T096      | Read Time: 00:00:02.8790697 | Write Time: 00:00:00.1072143
+2019-08-14 13:01:26.0524 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1418058 | Write Time: 00:00:00.1485205
+2019-08-14 13:01:26.2863 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0895247 | Write Time: 00:00:00.1283125
+2019-08-14 13:01:26.3931 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0256314 | Write Time: 00:00:00.0776580
+2019-08-14 13:01:29.6225 | Query No. 10 | Sample info  | Read Time: 00:00:03.2279817 | Write Time: 00:00:00.0776580
+2019-08-14 13:01:31.5041 | Query No. 11 | FM1T011      | Read Time: 00:00:01.7906209 | Write Time: 00:00:00.0871441
+2019-08-14 13:01:49.5421 | Query No. 13 | T27AggGrad   | Read Time: 00:00:17.8475076 | Write Time: 00:00:00.1888671
+2019-08-14 13:01:55.4072 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:05.7933467 | Write Time: 00:00:00.0715334
+2019-08-14 13:01:56.8909 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:01.4116367 | Write Time: 00:00:00.0709094
+2019-08-14 13:01:57.9486 | Query No. 21 | FM1T096      | Read Time: 00:00:01.0543970 | Write Time: 00:00:00.0000169
+2019-08-15 06:37:14.6126 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2938449 | Write Time: 00:00:00.1477074
+2019-08-15 06:37:14.8116 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0701671 | Write Time: 00:00:00.1149336
+2019-08-15 06:37:14.9051 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0187582 | Write Time: 00:00:00.0733172
+2019-08-15 06:37:19.4567 | Query No. 10 | Sample info  | Read Time: 00:00:04.5497882 | Write Time: 00:00:00.0733172
+2019-08-15 06:37:23.8858 | Query No. 11 | FM1T011      | Read Time: 00:00:04.3168339 | Write Time: 00:00:00.1113709
+2019-08-15 06:37:43.0266 | Query No. 13 | T27AggGrad   | Read Time: 00:00:18.8689655 | Write Time: 00:00:00.2685062
+2019-08-15 06:37:47.3344 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:04.2390803 | Write Time: 00:00:00.0652639
+2019-08-15 06:37:48.5686 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:01.1574276 | Write Time: 00:00:00.0720750
+2019-08-15 06:37:49.5828 | Query No. 21 | FM1T096      | Read Time: 00:00:01.0135030 | Write Time: 00:00:00.0000184
+2019-09-05 15:32:19.0329 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1153407 | Write Time: 00:00:00.1089378
+2019-09-05 15:32:19.1671 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0359350 | Write Time: 00:00:00.0811971
+2019-09-05 15:32:19.2554 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0133105 | Write Time: 00:00:00.0735680
+2019-09-05 15:35:50.9377 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1659555 | Write Time: 00:00:00.1289649
+2019-09-05 15:35:51.1198 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0692301 | Write Time: 00:00:00.0920810
+2019-09-05 15:35:51.2435 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0288708 | Write Time: 00:00:00.0935486
+2019-09-05 15:36:08.8428 | Query No. 10 | Sample info  | Read Time: 00:00:17.5926483 | Write Time: 00:00:00.0935486
+2019-09-05 15:36:11.2677 | Query No. 11 | FM1T011      | Read Time: 00:00:02.3491450 | Write Time: 00:00:00.0724087
+2019-09-05 15:37:39.7053 | Query No. 13 | T27AggGrad   | Read Time: 00:00:19.5136674 | Write Time: 00:00:00.1351235
+2019-09-05 15:37:53.7937 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:14.0172465 | Write Time: 00:00:00.0685561
+2019-09-05 15:37:54.0682 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:00.2159342 | Write Time: 00:00:00.0563341
+2019-09-05 15:37:54.9490 | Query No. 21 | FM1T096      | Read Time: 00:00:00.8773530 | Write Time: 00:00:00.0000232
+2019-09-09 14:04:37.2267 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.2841786 | Write Time: 00:00:00.1376505
+2019-09-09 14:04:37.3995 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0734783 | Write Time: 00:00:00.0834851
+2019-09-09 14:04:37.5011 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0194506 | Write Time: 00:00:00.0775220
+2019-09-09 14:14:52.4890 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1843812 | Write Time: 00:00:00.1086119
+2019-09-09 14:14:52.6435 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0452994 | Write Time: 00:00:00.0942211
+2019-09-09 14:14:52.7429 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0176950 | Write Time: 00:00:00.0797188
+2019-09-09 14:15:11.9114 | Query No. 10 | Sample info  | Read Time: 00:00:19.1649397 | Write Time: 00:00:00.0797188
+2019-09-09 14:15:16.4843 | Query No. 11 | FM1T011      | Read Time: 00:00:03.5860165 | Write Time: 00:00:00.9850797
+2019-09-09 14:15:45.7436 | Query No. 13 | T27AggGrad   | Read Time: 00:00:26.3056739 | Write Time: 00:00:02.9523761
+2019-09-09 14:16:00.7883 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:14.8590776 | Write Time: 00:00:00.1821383
+2019-09-09 14:16:01.2132 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:00.2117747 | Write Time: 00:00:00.2090843
+2019-09-09 14:16:02.1730 | Query No. 21 | FM1T096      | Read Time: 00:00:00.9580111 | Write Time: 00:00:00.0000198
+2019-09-09 14:28:24.1205 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1177935 | Write Time: 00:00:00.1181601
+2019-09-09 14:28:24.2721 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0556567 | Write Time: 00:00:00.0804829
+2019-09-09 14:28:24.3592 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0178948 | Write Time: 00:00:00.0679413
+2019-09-09 14:28:37.4278 | Query No. 10 | Sample info  | Read Time: 00:00:13.0673120 | Write Time: 00:00:00.0679413
+2019-09-09 14:28:39.6318 | Query No. 11 | FM1T011      | Read Time: 00:00:02.1347055 | Write Time: 00:00:00.0678783
+2019-09-09 14:29:07.6433 | Query No. 13 | T27AggGrad   | Read Time: 00:00:27.8887261 | Write Time: 00:00:00.1218124
+2019-09-09 14:29:22.0906 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:14.3831358 | Write Time: 00:00:00.0622284
+2019-09-09 14:29:22.3623 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:00.2004283 | Write Time: 00:00:00.0673072
+2019-09-09 14:29:23.1984 | Query No. 21 | FM1T096      | Read Time: 00:00:00.8325404 | Write Time: 00:00:00.0000208
+2019-09-09 15:39:39.6177 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1041174 | Write Time: 00:00:00.1228219
+2019-09-09 15:39:39.7439 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0330831 | Write Time: 00:00:00.0777978
+2019-09-09 15:39:39.8278 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0136189 | Write Time: 00:00:00.0688941
+2019-09-09 15:40:13.1835 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1108985 | Write Time: 00:00:00.1082764
+2019-09-09 15:40:13.3070 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0329003 | Write Time: 00:00:00.0753857
+2019-09-09 15:40:13.3910 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0131432 | Write Time: 00:00:00.0693392
+2019-09-09 15:40:53.4653 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1203070 | Write Time: 00:00:00.1129470
+2019-09-09 15:40:53.6067 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0426982 | Write Time: 00:00:00.0836747
+2019-09-09 15:40:53.7136 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0135495 | Write Time: 00:00:00.0919263
+2019-09-09 15:47:44.9904 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1195099 | Write Time: 00:00:00.1041242
+2019-09-09 15:47:45.1385 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0386211 | Write Time: 00:00:00.0935443
+2019-09-09 15:47:45.2213 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0145706 | Write Time: 00:00:00.0662701
+2019-09-09 15:48:56.6607 | Query No. 10 | Sample info  | Read Time: 00:01:11.4403112 | Write Time: 00:00:00.0662701
+2019-09-09 15:48:59.0899 | Query No. 11 | FM1T011      | Read Time: 00:00:02.3532541 | Write Time: 00:00:00.0738182
+2019-09-09 15:49:34.7489 | Query No. 13 | T27AggGrad   | Read Time: 00:00:35.5373168 | Write Time: 00:00:00.1213218
+2019-09-09 15:50:01.0066 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:26.1978881 | Write Time: 00:00:00.0600718
+2019-09-09 15:50:40.3028 | Query No. 7  | QCP Prod Info| Read Time: 00:00:00.1189048 | Write Time: 00:00:00.1163031
+2019-09-09 15:50:40.4809 | Query No. 8  | Agg. Products| Read Time: 00:00:00.0802328 | Write Time: 00:00:00.0787108
+2019-09-09 15:50:40.5688 | Query No. 9  | Mine-Terminal| Read Time: 00:00:00.0176552 | Write Time: 00:00:00.0661731
+2019-09-09 15:50:56.5810 | Query No. 10 | Sample info  | Read Time: 00:00:16.0109852 | Write Time: 00:00:00.0661731
+2019-09-09 15:50:59.2919 | Query No. 11 | FM1T011      | Read Time: 00:00:02.6386653 | Write Time: 00:00:00.0710429
+2019-09-09 15:51:36.9922 | Query No. 13 | T27AggGrad   | Read Time: 00:00:37.5897023 | Write Time: 00:00:00.1107613
+2019-09-09 15:51:52.0514 | Query No. 15 | FM1T084FASG  | Read Time: 00:00:14.9995107 | Write Time: 00:00:00.0589295
+2019-09-09 15:51:56.3622 | Query No. 18 | FM1T085CASG  | Read Time: 00:00:04.2488467 | Write Time: 00:00:00.0581624
+2019-09-09 15:51:57.2805 | Query No. 21 | FM1T096      | Read Time: 00:00:00.9140353 | Write Time: 00:00:00.0000572
